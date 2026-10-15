@@ -1,0 +1,3715 @@
+[
+ {
+  "id": "EV-010",
+  "title": "Delta Electronics \u2013 ELECRAMA 2023",
+  "clientId": "CL-010",
+  "exhibition": "ELECRAMA 2023",
+  "venueId": "VN-001",
+  "hall": "Hall 10",
+  "stallNo": "D8",
+  "startDate": "2023-02-18",
+  "endDate": "2023-02-22",
+  "setupDate": "2023-02-15",
+  "dismantleDate": "2023-02-23",
+  "stallSizeSqm": 300,
+  "stallType": "Double Decker",
+  "status": "Completed",
+  "priority": "Medium",
+  "progress": 100,
+  "budget": 4272000,
+  "spent": 4054175,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-007",
+   "TM-016",
+   "TM-001",
+   "TM-010"
+  ],
+  "vendorIds": [
+   "VD-024",
+   "VD-032",
+   "VD-011",
+   "VD-018",
+   "VD-006"
+  ],
+  "tags": [
+   "Branding Heavy",
+   "LED Wall"
+  ],
+  "images": [
+   "/images/portfolio/delta-1.jpg",
+   "/images/portfolio/delta-2.jpg",
+   "/images/portfolio/delta-3.jpg"
+  ],
+  "description": "Double Decker exhibition stand of 300 sqm for Delta Electronics India at ELECRAMA 2023, India Expo Mart (IEML) (Hall 10). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2022-10-22",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2022-12-14",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2022-12-25",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2023-01-11",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2023-02-04",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2023-02-10",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2023-02-15",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2023-02-17",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2023-02-18",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2023-02-23",
+    "done": true
+   }
+  ],
+  "openSides": 1,
+  "heightM": 4,
+  "deliverables": [
+   "Meeting room",
+   "LED video wall",
+   "Pantry",
+   "Interactive kiosk",
+   "Product display podiums",
+   "Hanging banner"
+  ],
+  "createdAt": "2022-10-03"
+ },
+ {
+  "id": "EV-003",
+  "title": "Grundfos \u2013 Dairy Expo 2023",
+  "clientId": "CL-003",
+  "exhibition": "India Dairy Expo 2023",
+  "venueId": "VN-001",
+  "hall": "Hall 4",
+  "stallNo": "H6",
+  "startDate": "2023-03-09",
+  "endDate": "2023-03-11",
+  "setupDate": "2023-03-06",
+  "dismantleDate": "2023-03-12",
+  "stallSizeSqm": 72,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "Medium",
+  "progress": 100,
+  "budget": 625000,
+  "spent": 625940,
+  "projectManagerId": "TM-005",
+  "teamIds": [
+   "TM-005",
+   "TM-006",
+   "TM-016",
+   "TM-011",
+   "TM-010"
+  ],
+  "vendorIds": [
+   "VD-030",
+   "VD-006",
+   "VD-010",
+   "VD-018",
+   "VD-022",
+   "VD-025"
+  ],
+  "tags": [
+   "Live Demo",
+   "Product Launch",
+   "Heavy Machinery"
+  ],
+  "images": [
+   "/images/portfolio/grundfos-1.jpg",
+   "/images/portfolio/grundfos-2.jpg",
+   "/images/portfolio/grundfos-3.jpg",
+   "/images/portfolio/grundfos-4.jpg"
+  ],
+  "description": "Custom Build exhibition stand of 72 sqm for Grundfos India at India Dairy Expo 2023, India Expo Mart (IEML) (Hall 4). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2022-11-06",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2022-12-24",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2023-01-16",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2023-02-04",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2023-02-23",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2023-03-01",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2023-03-06",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2023-03-08",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2023-03-09",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2023-03-12",
+    "done": true
+   }
+  ],
+  "openSides": 1,
+  "heightM": 8,
+  "deliverables": [
+   "Hanging banner",
+   "Reception counter",
+   "Meeting room",
+   "VIP area",
+   "Hospitality lounge",
+   "Storage room",
+   "Pantry"
+  ],
+  "createdAt": "2022-10-30"
+ },
+ {
+  "id": "EV-002",
+  "title": "Kobelco \u2013 EXCON 2023 Outdoor Pavilion",
+  "clientId": "CL-002",
+  "exhibition": "EXCON 2023",
+  "venueId": "VN-012",
+  "hall": "Outdoor B",
+  "stallNo": "H29",
+  "startDate": "2023-12-12",
+  "endDate": "2023-12-16",
+  "setupDate": "2023-12-08",
+  "dismantleDate": "2023-12-17",
+  "stallSizeSqm": 900,
+  "stallType": "Outdoor Pavilion",
+  "status": "Completed",
+  "priority": "High",
+  "progress": 100,
+  "budget": 8006000,
+  "spent": 8340159,
+  "projectManagerId": "TM-003",
+  "teamIds": [
+   "TM-003",
+   "TM-007",
+   "TM-010",
+   "TM-001"
+  ],
+  "vendorIds": [
+   "VD-014",
+   "VD-028",
+   "VD-030",
+   "VD-032",
+   "VD-024"
+  ],
+  "tags": [
+   "Flagship",
+   "Heavy Machinery",
+   "Live Demo",
+   "Hospitality Lounge"
+  ],
+  "images": [
+   "/images/portfolio/kobelco-1.jpg",
+   "/images/portfolio/kobelco-2.jpg",
+   "/images/portfolio/kobelco-3.jpg",
+   "/images/portfolio/kobelco-4.jpg"
+  ],
+  "description": "Outdoor Pavilion exhibition stand of 900 sqm for Kobelco Construction Equipment India at EXCON 2023, Autonagar Open Grounds (EXCON) (Outdoor B). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2023-08-07",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2023-09-27",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2023-10-25",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2023-11-04",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2023-11-29",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2023-12-06",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2023-12-08",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2023-12-11",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2023-12-12",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2023-12-17",
+    "done": true
+   }
+  ],
+  "openSides": 1,
+  "heightM": 4,
+  "deliverables": [
+   "Mezzanine floor",
+   "Pantry",
+   "Interactive kiosk",
+   "Reception counter",
+   "Storage room"
+  ],
+  "createdAt": "2023-08-08"
+ },
+ {
+  "id": "EV-001",
+  "title": "Okaya EV \u2013 EV India Expo 2024",
+  "clientId": "CL-001",
+  "exhibition": "EV India Expo 2024",
+  "venueId": "VN-001",
+  "hall": "Hall 9",
+  "stallNo": "D12",
+  "startDate": "2024-09-18",
+  "endDate": "2024-09-20",
+  "setupDate": "2024-09-15",
+  "dismantleDate": "2024-09-21",
+  "stallSizeSqm": 120,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "Low",
+  "progress": 100,
+  "budget": 1085000,
+  "spent": 1036263,
+  "projectManagerId": "TM-005",
+  "teamIds": [
+   "TM-005",
+   "TM-007",
+   "TM-011",
+   "TM-009",
+   "TM-014"
+  ],
+  "vendorIds": [
+   "VD-028",
+   "VD-007",
+   "VD-011",
+   "VD-031"
+  ],
+  "tags": [
+   "Double Decker",
+   "Flagship"
+  ],
+  "images": [
+   "/images/portfolio/okaya-1.jpg",
+   "/images/portfolio/okaya-2.jpg",
+   "/images/portfolio/okaya-3.jpg",
+   "/images/portfolio/okaya-4.jpg"
+  ],
+  "description": "Custom Build exhibition stand of 120 sqm for Okaya EV at EV India Expo 2024, India Expo Mart (IEML) (Hall 9). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2024-06-15",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2024-07-18",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2024-08-03",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2024-08-11",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2024-09-03",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2024-09-10",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2024-09-15",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2024-09-17",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2024-09-18",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2024-09-21",
+    "done": true
+   }
+  ],
+  "openSides": 4,
+  "heightM": 6,
+  "deliverables": [
+   "Storage room",
+   "Reception counter",
+   "Meeting room",
+   "Interactive kiosk",
+   "VIP area",
+   "Hospitality lounge",
+   "Pantry"
+  ],
+  "createdAt": "2024-06-16"
+ },
+ {
+  "id": "EV-008",
+  "title": "Avery Dennison \u2013 Labelexpo India",
+  "clientId": "CL-008",
+  "exhibition": "Labelexpo India 2024",
+  "venueId": "VN-001",
+  "hall": "Hall 7",
+  "stallNo": "C6",
+  "startDate": "2024-11-14",
+  "endDate": "2024-11-17",
+  "setupDate": "2024-11-11",
+  "dismantleDate": "2024-11-18",
+  "stallSizeSqm": 150,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "Medium",
+  "progress": 100,
+  "budget": 1770000,
+  "spent": 1731016,
+  "projectManagerId": "TM-003",
+  "teamIds": [
+   "TM-003",
+   "TM-008",
+   "TM-011",
+   "TM-015"
+  ],
+  "vendorIds": [
+   "VD-028",
+   "VD-015",
+   "VD-008",
+   "VD-007",
+   "VD-003"
+  ],
+  "tags": [
+   "Repeat Client",
+   "Heavy Machinery",
+   "Double Decker"
+  ],
+  "images": [
+   "/images/portfolio/avery-1.jpg",
+   "/images/portfolio/avery-2.jpg",
+   "/images/portfolio/avery-3.jpg"
+  ],
+  "description": "Custom Build exhibition stand of 150 sqm for Avery Dennison at Labelexpo India 2024, India Expo Mart (IEML) (Hall 7). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2024-08-16",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2024-09-02",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2024-09-20",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2024-10-19",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2024-10-26",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2024-11-07",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2024-11-11",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2024-11-13",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2024-11-14",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2024-11-18",
+    "done": true
+   }
+  ],
+  "openSides": 2,
+  "heightM": 4.5,
+  "deliverables": [
+   "VIP area",
+   "Interactive kiosk",
+   "Storage room",
+   "LED video wall",
+   "Pantry",
+   "Hanging banner"
+  ],
+  "createdAt": "2024-07-17"
+ },
+ {
+  "id": "EV-007",
+  "title": "Eaton \u2013 ELECRAMA 2025",
+  "clientId": "CL-007",
+  "exhibition": "ELECRAMA 2025",
+  "venueId": "VN-001",
+  "hall": "Hall 12",
+  "stallNo": "E28",
+  "startDate": "2025-02-18",
+  "endDate": "2025-02-22",
+  "setupDate": "2025-02-16",
+  "dismantleDate": "2025-02-23",
+  "stallSizeSqm": 180,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "Medium",
+  "progress": 100,
+  "budget": 2013000,
+  "spent": 1732782,
+  "projectManagerId": "TM-003",
+  "teamIds": [
+   "TM-003",
+   "TM-007",
+   "TM-011",
+   "TM-009",
+   "TM-015"
+  ],
+  "vendorIds": [
+   "VD-023",
+   "VD-015",
+   "VD-026",
+   "VD-010"
+  ],
+  "tags": [
+   "Hospitality Lounge",
+   "LED Wall",
+   "Heavy Machinery"
+  ],
+  "images": [
+   "/images/portfolio/eaton-1.jpg"
+  ],
+  "description": "Custom Build exhibition stand of 180 sqm for Eaton India at ELECRAMA 2025, India Expo Mart (IEML) (Hall 12). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2024-10-12",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2024-11-28",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2024-12-29",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2025-01-17",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2025-01-30",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2025-02-12",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2025-02-16",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2025-02-17",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2025-02-18",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2025-02-23",
+    "done": true
+   }
+  ],
+  "openSides": 4,
+  "heightM": 4,
+  "deliverables": [
+   "Hanging banner",
+   "Pantry",
+   "Hospitality lounge",
+   "Storage room",
+   "VIP area"
+  ],
+  "createdAt": "2024-11-19"
+ },
+ {
+  "id": "EV-006",
+  "title": "Hershey's \u2013 India Food Forum 2025",
+  "clientId": "CL-006",
+  "exhibition": "India Food Forum 2025",
+  "venueId": "VN-004",
+  "hall": "Pavilion 2",
+  "stallNo": "H11",
+  "startDate": "2025-02-19",
+  "endDate": "2025-02-21",
+  "setupDate": "2025-02-16",
+  "dismantleDate": "2025-02-22",
+  "stallSizeSqm": 64,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "Medium",
+  "progress": 100,
+  "budget": 563000,
+  "spent": 567259,
+  "projectManagerId": "TM-004",
+  "teamIds": [
+   "TM-004",
+   "TM-008",
+   "TM-016",
+   "TM-001",
+   "TM-014",
+   "TM-006"
+  ],
+  "vendorIds": [
+   "VD-030",
+   "VD-031",
+   "VD-016",
+   "VD-013",
+   "VD-005"
+  ],
+  "tags": [
+   "Flagship",
+   "Live Demo"
+  ],
+  "images": [
+   "/images/portfolio/hersheys-1.jpg",
+   "/images/portfolio/hersheys-2.jpg",
+   "/images/portfolio/hersheys-3.jpg"
+  ],
+  "description": "Custom Build exhibition stand of 64 sqm for The Hershey Company India at India Food Forum 2025, Jio World Convention Centre (Pavilion 2). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2024-10-31",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2024-12-07",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2024-12-30",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2025-01-23",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2025-02-02",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2025-02-11",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2025-02-16",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2025-02-18",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2025-02-19",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2025-02-22",
+    "done": true
+   }
+  ],
+  "openSides": 1,
+  "heightM": 5,
+  "deliverables": [
+   "Hospitality lounge",
+   "Hanging banner",
+   "LED video wall",
+   "Meeting room",
+   "Mezzanine floor",
+   "Storage room"
+  ],
+  "createdAt": "2024-10-09"
+ },
+ {
+  "id": "EV-035",
+  "title": "JK Cement \u2013 Coimbatore Builders Expo",
+  "clientId": "CL-019",
+  "exhibition": "Builders Expo 2025",
+  "venueId": "VN-010",
+  "hall": "Hall B",
+  "stallNo": "E11",
+  "startDate": "2025-08-22",
+  "endDate": "2025-08-24",
+  "setupDate": "2025-08-18",
+  "dismantleDate": "2025-08-25",
+  "stallSizeSqm": 36,
+  "stallType": "Modular",
+  "status": "Completed",
+  "priority": "Medium",
+  "progress": 100,
+  "budget": 202000,
+  "spent": 169845,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-007",
+   "TM-016",
+   "TM-012"
+  ],
+  "vendorIds": [
+   "VD-018",
+   "VD-016",
+   "VD-027",
+   "VD-001",
+   "VD-029",
+   "VD-032"
+  ],
+  "tags": [
+   "Sustainability",
+   "Hospitality Lounge",
+   "Product Launch",
+   "Branding Heavy"
+  ],
+  "images": [],
+  "description": "Modular exhibition stand of 36 sqm for JK Cement at Builders Expo 2025, Codissia Trade Fair Complex (Hall B). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2025-05-18",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2025-06-23",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2025-07-06",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2025-07-13",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2025-08-05",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2025-08-16",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2025-08-18",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2025-08-21",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2025-08-22",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2025-08-25",
+    "done": true
+   }
+  ],
+  "openSides": 3,
+  "heightM": 8,
+  "deliverables": [
+   "Meeting room",
+   "LED video wall",
+   "Demo zone",
+   "Mezzanine floor",
+   "Pantry"
+  ],
+  "createdAt": "2025-04-07"
+ },
+ {
+  "id": "EV-004",
+  "title": "Adani \u2013 World Food India 2025",
+  "clientId": "CL-004",
+  "exhibition": "World Food India 2025",
+  "venueId": "VN-002",
+  "hall": "Hall 5",
+  "stallNo": "C32",
+  "startDate": "2025-09-25",
+  "endDate": "2025-09-28",
+  "setupDate": "2025-09-22",
+  "dismantleDate": "2025-09-29",
+  "stallSizeSqm": 250,
+  "stallType": "Double Decker",
+  "status": "Completed",
+  "priority": "Medium",
+  "progress": 100,
+  "budget": 3823000,
+  "spent": 3182214,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-008",
+   "TM-010",
+   "TM-007",
+   "TM-009",
+   "TM-013"
+  ],
+  "vendorIds": [
+   "VD-025",
+   "VD-021",
+   "VD-005",
+   "VD-013"
+  ],
+  "tags": [
+   "Repeat Client",
+   "Hospitality Lounge",
+   "Heavy Machinery",
+   "Meeting Rooms"
+  ],
+  "images": [
+   "/images/portfolio/adani-1.jpg",
+   "/images/portfolio/adani-2.jpg",
+   "/images/portfolio/adani-3.jpg",
+   "/images/portfolio/adani-4.jpg",
+   "/images/portfolio/adani-5.jpg"
+  ],
+  "description": "Double Decker exhibition stand of 250 sqm for Adani Group at World Food India 2025, Bharat Mandapam (Pragati Maidan) (Hall 5). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2025-05-23",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2025-07-28",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2025-08-07",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2025-08-17",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2025-09-06",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2025-09-20",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2025-09-22",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2025-09-24",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2025-09-25",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2025-09-29",
+    "done": true
+   }
+  ],
+  "openSides": 4,
+  "heightM": 4.5,
+  "deliverables": [
+   "VIP area",
+   "LED video wall",
+   "Hanging banner",
+   "Meeting room",
+   "Mezzanine floor",
+   "Pantry",
+   "Reception counter"
+  ],
+  "createdAt": "2025-06-10"
+ },
+ {
+  "id": "EV-005",
+  "title": "Tops \u2013 World Food India 2025",
+  "clientId": "CL-005",
+  "exhibition": "World Food India 2025",
+  "venueId": "VN-002",
+  "hall": "Hall 5",
+  "stallNo": "C32",
+  "startDate": "2025-09-25",
+  "endDate": "2025-09-28",
+  "setupDate": "2025-09-22",
+  "dismantleDate": "2025-09-29",
+  "stallSizeSqm": 96,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "High",
+  "progress": 100,
+  "budget": 1067000,
+  "spent": 1093737,
+  "projectManagerId": "TM-005",
+  "teamIds": [
+   "TM-005",
+   "TM-006",
+   "TM-016",
+   "TM-012",
+   "TM-010",
+   "TM-015"
+  ],
+  "vendorIds": [
+   "VD-023",
+   "VD-018",
+   "VD-013",
+   "VD-028",
+   "VD-022",
+   "VD-006",
+   "VD-026"
+  ],
+  "tags": [
+   "Sustainability",
+   "Interactive Kiosk"
+  ],
+  "images": [
+   "/images/portfolio/adani-1.jpg"
+  ],
+  "description": "Custom Build exhibition stand of 96 sqm for Tops (G.D. Foods) at World Food India 2025, Bharat Mandapam (Pragati Maidan) (Hall 5). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2025-05-08",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2025-07-16",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2025-08-07",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2025-08-31",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2025-09-09",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2025-09-18",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2025-09-22",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2025-09-24",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2025-09-25",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2025-09-29",
+    "done": true
+   }
+  ],
+  "openSides": 3,
+  "heightM": 4,
+  "deliverables": [
+   "Product display podiums",
+   "VIP area",
+   "Demo zone",
+   "Reception counter",
+   "LED video wall",
+   "Meeting room",
+   "Hospitality lounge"
+  ],
+  "createdAt": "2025-06-18"
+ },
+ {
+  "id": "EV-034",
+  "title": "Godrej \u2013 Kolkata Consumer Fair",
+  "clientId": "CL-018",
+  "exhibition": "Kolkata Consumer Durables Fair 2025",
+  "venueId": "VN-011",
+  "hall": "Main Hall",
+  "stallNo": "B22",
+  "startDate": "2025-11-14",
+  "endDate": "2025-11-16",
+  "setupDate": "2025-11-12",
+  "dismantleDate": "2025-11-17",
+  "stallSizeSqm": 48,
+  "stallType": "Modular",
+  "status": "Completed",
+  "priority": "High",
+  "progress": 100,
+  "budget": 289000,
+  "spent": 295959,
+  "projectManagerId": "TM-003",
+  "teamIds": [
+   "TM-003",
+   "TM-008",
+   "TM-011",
+   "TM-001"
+  ],
+  "vendorIds": [
+   "VD-028",
+   "VD-031",
+   "VD-007",
+   "VD-018",
+   "VD-015",
+   "VD-011"
+  ],
+  "tags": [
+   "Meeting Rooms",
+   "Branding Heavy",
+   "Hospitality Lounge",
+   "Double Decker"
+  ],
+  "images": [],
+  "description": "Modular exhibition stand of 48 sqm for Godrej Appliances at Kolkata Consumer Durables Fair 2025, Science City Kolkata Grounds (Main Hall). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2025-08-05",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2025-09-07",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2025-09-28",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2025-10-19",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2025-10-27",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2025-11-06",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2025-11-12",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2025-11-13",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2025-11-14",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2025-11-17",
+    "done": true
+   }
+  ],
+  "openSides": 1,
+  "heightM": 5,
+  "deliverables": [
+   "Pantry",
+   "Mezzanine floor",
+   "Meeting room",
+   "LED video wall",
+   "Hanging banner",
+   "Demo zone"
+  ],
+  "createdAt": "2025-07-20"
+ },
+ {
+  "id": "EV-028",
+  "title": "Delta \u2013 Intersolar India 2025",
+  "clientId": "CL-010",
+  "exhibition": "Intersolar India 2025",
+  "venueId": "VN-009",
+  "hall": "Hall 2",
+  "stallNo": "F23",
+  "startDate": "2025-12-04",
+  "endDate": "2025-12-06",
+  "setupDate": "2025-12-02",
+  "dismantleDate": "2025-12-07",
+  "stallSizeSqm": 120,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "Medium",
+  "progress": 100,
+  "budget": 1042000,
+  "spent": 1070454,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-007",
+   "TM-011",
+   "TM-009",
+   "TM-012",
+   "TM-008"
+  ],
+  "vendorIds": [
+   "VD-015",
+   "VD-024",
+   "VD-005",
+   "VD-003",
+   "VD-010",
+   "VD-011",
+   "VD-021"
+  ],
+  "tags": [
+   "Live Demo",
+   "Sustainability"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 120 sqm for Delta Electronics India at Intersolar India 2025, Mahatma Mandir Convention Centre (Hall 2). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2025-09-03",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2025-09-10",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2025-10-10",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2025-11-01",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2025-11-19",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2025-11-26",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2025-12-02",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2025-12-03",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2025-12-04",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2025-12-07",
+    "done": true
+   }
+  ],
+  "openSides": 1,
+  "heightM": 5,
+  "deliverables": [
+   "Demo zone",
+   "Product display podiums",
+   "Storage room",
+   "Interactive kiosk",
+   "Meeting room"
+  ],
+  "createdAt": "2025-08-27"
+ },
+ {
+  "id": "EV-026",
+  "title": "Kobelco \u2013 EXCON 2025",
+  "clientId": "CL-002",
+  "exhibition": "EXCON 2025",
+  "venueId": "VN-012",
+  "hall": "Outdoor A",
+  "stallNo": "F30",
+  "startDate": "2025-12-09",
+  "endDate": "2025-12-13",
+  "setupDate": "2025-12-07",
+  "dismantleDate": "2025-12-14",
+  "stallSizeSqm": 1200,
+  "stallType": "Outdoor Pavilion",
+  "status": "Completed",
+  "priority": "Low",
+  "progress": 100,
+  "budget": 10697000,
+  "spent": 11335299,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-008",
+   "TM-011",
+   "TM-010",
+   "TM-006",
+   "TM-013"
+  ],
+  "vendorIds": [
+   "VD-014",
+   "VD-008",
+   "VD-029",
+   "VD-018",
+   "VD-011",
+   "VD-003"
+  ],
+  "tags": [
+   "Interactive Kiosk",
+   "Product Launch"
+  ],
+  "images": [],
+  "description": "Outdoor Pavilion exhibition stand of 1200 sqm for Kobelco Construction Equipment India at EXCON 2025, Autonagar Open Grounds (EXCON) (Outdoor A). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2025-09-03",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2025-10-11",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2025-10-24",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2025-10-31",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2025-11-25",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2025-12-01",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2025-12-07",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2025-12-08",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2025-12-09",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2025-12-14",
+    "done": true
+   }
+  ],
+  "openSides": 1,
+  "heightM": 5,
+  "deliverables": [
+   "Interactive kiosk",
+   "Demo zone",
+   "VIP area",
+   "Hanging banner",
+   "Pantry",
+   "Mezzanine floor",
+   "Storage room"
+  ],
+  "createdAt": "2025-09-06"
+ },
+ {
+  "id": "EV-009",
+  "title": "Summit Sports \u2013 SFI 2026",
+  "clientId": "CL-009",
+  "exhibition": "Sports Flooring India 2026",
+  "venueId": "VN-003",
+  "hall": "Hall 2",
+  "stallNo": "H2",
+  "startDate": "2026-01-22",
+  "endDate": "2026-01-24",
+  "setupDate": "2026-01-19",
+  "dismantleDate": "2026-01-25",
+  "stallSizeSqm": 110,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "Low",
+  "progress": 100,
+  "budget": 1294000,
+  "spent": 1152739,
+  "projectManagerId": "TM-004",
+  "teamIds": [
+   "TM-004",
+   "TM-006",
+   "TM-016",
+   "TM-009"
+  ],
+  "vendorIds": [
+   "VD-024",
+   "VD-017",
+   "VD-016",
+   "VD-020"
+  ],
+  "tags": [
+   "Live Demo",
+   "Interactive Kiosk",
+   "LED Wall",
+   "Product Launch"
+  ],
+  "images": [
+   "/images/portfolio/summit-1.jpg",
+   "/images/portfolio/summit-2.jpg",
+   "/images/portfolio/summit-3.jpg"
+  ],
+  "description": "Custom Build exhibition stand of 110 sqm for Summit Sports at Sports Flooring India 2026, Yashobhoomi (IICC) (Hall 2). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2025-10-17",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2025-11-14",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2025-12-07",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2025-12-24",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-01-07",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-01-14",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-01-19",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-01-21",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-01-22",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-01-25",
+    "done": true
+   }
+  ],
+  "openSides": 4,
+  "heightM": 5,
+  "deliverables": [
+   "Product display podiums",
+   "LED video wall",
+   "Reception counter",
+   "Pantry",
+   "Storage room",
+   "Meeting room",
+   "VIP area"
+  ],
+  "createdAt": "2025-10-18"
+ },
+ {
+  "id": "EV-011",
+  "title": "Rehlko \u2013 Power Gen Expo 2026",
+  "clientId": "CL-011",
+  "exhibition": "Power Gen India 2026",
+  "venueId": "VN-002",
+  "hall": "Hall 3",
+  "stallNo": "E4",
+  "startDate": "2026-03-05",
+  "endDate": "2026-03-07",
+  "setupDate": "2026-03-03",
+  "dismantleDate": "2026-03-08",
+  "stallSizeSqm": 140,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "High",
+  "progress": 100,
+  "budget": 1454000,
+  "spent": 1396904,
+  "projectManagerId": "TM-003",
+  "teamIds": [
+   "TM-003",
+   "TM-008",
+   "TM-011",
+   "TM-006"
+  ],
+  "vendorIds": [
+   "VD-010",
+   "VD-003",
+   "VD-017",
+   "VD-011"
+  ],
+  "tags": [
+   "Heavy Machinery",
+   "Sustainability",
+   "Product Launch",
+   "Interactive Kiosk"
+  ],
+  "images": [
+   "/images/portfolio/rehlko-1.jpg",
+   "/images/portfolio/rehlko-2.jpg"
+  ],
+  "description": "Custom Build exhibition stand of 140 sqm for Rehlko (Kohler Energy) at Power Gen India 2026, Bharat Mandapam (Pragati Maidan) (Hall 3). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2025-11-14",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2025-12-16",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-01-17",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-02-08",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-02-17",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-02-27",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-03-03",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-03-04",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-03-05",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-03-08",
+    "done": true
+   }
+  ],
+  "openSides": 4,
+  "heightM": 6,
+  "deliverables": [
+   "VIP area",
+   "Pantry",
+   "Product display podiums",
+   "Demo zone",
+   "Meeting room",
+   "Storage room"
+  ],
+  "createdAt": "2025-12-03"
+ },
+ {
+  "id": "EV-029",
+  "title": "Tops \u2013 AAHAR 2026",
+  "clientId": "CL-005",
+  "exhibition": "AAHAR 2026",
+  "venueId": "VN-002",
+  "hall": "Hall 8",
+  "stallNo": "A7",
+  "startDate": "2026-03-10",
+  "endDate": "2026-03-14",
+  "setupDate": "2026-03-07",
+  "dismantleDate": "2026-03-15",
+  "stallSizeSqm": 64,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "Medium",
+  "progress": 100,
+  "budget": 567000,
+  "spent": 504432,
+  "projectManagerId": "TM-003",
+  "teamIds": [
+   "TM-003",
+   "TM-006",
+   "TM-016",
+   "TM-012",
+   "TM-009"
+  ],
+  "vendorIds": [
+   "VD-003",
+   "VD-005",
+   "VD-020",
+   "VD-026",
+   "VD-024",
+   "VD-030",
+   "VD-028"
+  ],
+  "tags": [
+   "Hospitality Lounge",
+   "Live Demo"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 64 sqm for Tops (G.D. Foods) at AAHAR 2026, Bharat Mandapam (Pragati Maidan) (Hall 8). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2025-11-01",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-01-01",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-01-21",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-02-08",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-02-21",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-03-03",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-03-07",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-03-09",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-03-10",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-03-15",
+    "done": true
+   }
+  ],
+  "openSides": 4,
+  "heightM": 5,
+  "deliverables": [
+   "Hanging banner",
+   "Reception counter",
+   "Pantry",
+   "VIP area"
+  ],
+  "createdAt": "2025-11-28"
+ },
+ {
+  "id": "EV-012",
+  "title": "Canara Bank \u2013 Global Fintech Fest 2026",
+  "clientId": "CL-012",
+  "exhibition": "Global Fintech Fest 2026",
+  "venueId": "VN-004",
+  "hall": "Pavilion 1",
+  "stallNo": "F25",
+  "startDate": "2026-08-26",
+  "endDate": "2026-08-28",
+  "setupDate": "2026-08-22",
+  "dismantleDate": "2026-08-29",
+  "stallSizeSqm": 81,
+  "stallType": "Custom Build",
+  "status": "Completed",
+  "priority": "Low",
+  "progress": 100,
+  "budget": 888000,
+  "spent": 921833,
+  "projectManagerId": "TM-005",
+  "teamIds": [
+   "TM-005",
+   "TM-007",
+   "TM-009",
+   "TM-016",
+   "TM-012"
+  ],
+  "vendorIds": [
+   "VD-005",
+   "VD-017",
+   "VD-028",
+   "VD-010"
+  ],
+  "tags": [
+   "Hospitality Lounge",
+   "Meeting Rooms",
+   "Sustainability",
+   "Heavy Machinery"
+  ],
+  "images": [
+   "/images/portfolio/canara-1.jpg",
+   "/images/portfolio/canara-2.jpg",
+   "/images/portfolio/canara-3.jpg"
+  ],
+  "description": "Custom Build exhibition stand of 81 sqm for Canara Bank at Global Fintech Fest 2026, Jio World Convention Centre (Pavilion 1). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-04-25",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-06-23",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-07-05",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-08-01",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-08-14",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-08-18",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-08-22",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-08-25",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-08-26",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-08-29",
+    "done": true
+   }
+  ],
+  "openSides": 1,
+  "heightM": 4,
+  "deliverables": [
+   "Hanging banner",
+   "Demo zone",
+   "Meeting room",
+   "Interactive kiosk",
+   "Hospitality lounge"
+  ],
+  "createdAt": "2026-04-29"
+ },
+ {
+  "id": "EV-013",
+  "title": "CG Power \u2013 SWITCH Global Expo 2026",
+  "clientId": "CL-013",
+  "exhibition": "SWITCH Global Expo 2026",
+  "venueId": "VN-009",
+  "hall": "Hall 2",
+  "stallNo": "B27",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-17",
+  "setupDate": "2026-10-11",
+  "dismantleDate": "2026-10-18",
+  "stallSizeSqm": 160,
+  "stallType": "Custom Build",
+  "status": "Live",
+  "priority": "Medium",
+  "progress": 95,
+  "budget": 1580000,
+  "spent": 1415557,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-006",
+   "TM-009",
+   "TM-011"
+  ],
+  "vendorIds": [
+   "VD-031",
+   "VD-019",
+   "VD-010",
+   "VD-026"
+  ],
+  "tags": [
+   "Heavy Machinery",
+   "Flagship",
+   "Hospitality Lounge",
+   "Interactive Kiosk"
+  ],
+  "images": [
+   "/images/portfolio/cg-1.jpg",
+   "/images/portfolio/cg-2.jpg",
+   "/images/portfolio/cg-3.jpg"
+  ],
+  "description": "Custom Build exhibition stand of 160 sqm for CG Power & Industrial at SWITCH Global Expo 2026, Mahatma Mandir Convention Centre (Hall 2). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-06-26",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-07-30",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-08-26",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-09-08",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-09-30",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-10-06",
+    "done": true
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-10-11",
+    "done": true
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-10-13",
+    "done": true
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-10-14",
+    "done": true
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-10-18",
+    "done": false
+   }
+  ],
+  "openSides": 3,
+  "heightM": 4,
+  "deliverables": [
+   "LED video wall",
+   "Mezzanine floor",
+   "Demo zone",
+   "Meeting room",
+   "Product display podiums"
+  ],
+  "createdAt": "2026-06-24"
+ },
+ {
+  "id": "EV-022",
+  "title": "Grundfos \u2013 IFAT India 2026",
+  "clientId": "CL-003",
+  "exhibition": "IFAT India 2026",
+  "venueId": "VN-005",
+  "hall": "Hall 1",
+  "stallNo": "A40",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-23",
+  "setupDate": "2026-10-18",
+  "dismantleDate": "2026-10-24",
+  "stallSizeSqm": 110,
+  "stallType": "Custom Build",
+  "status": "Installation",
+  "priority": "Medium",
+  "progress": 86,
+  "budget": 1141000,
+  "spent": 850554,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-006",
+   "TM-016",
+   "TM-014",
+   "TM-012"
+  ],
+  "vendorIds": [
+   "VD-023",
+   "VD-027",
+   "VD-026",
+   "VD-004"
+  ],
+  "tags": [
+   "Interactive Kiosk",
+   "Heavy Machinery"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 110 sqm for Grundfos India at IFAT India 2026, Bombay Exhibition Centre (NESCO) (Hall 1). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-07-16",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-08-03",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-09-02",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-09-19",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-10-05",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-10-16",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-10-18",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-10-20",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-10-21",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-10-24",
+    "done": false
+   }
+  ],
+  "openSides": 2,
+  "heightM": 4,
+  "deliverables": [
+   "Product display podiums",
+   "VIP area",
+   "Mezzanine floor",
+   "Pantry",
+   "Reception counter",
+   "Meeting room"
+  ],
+  "createdAt": "2026-06-23"
+ },
+ {
+  "id": "EV-032",
+  "title": "Havells \u2013 Light India 2026",
+  "clientId": "CL-017",
+  "exhibition": "Light India 2026",
+  "venueId": "VN-002",
+  "hall": "Hall 4",
+  "stallNo": "F36",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-26",
+  "setupDate": "2026-10-20",
+  "dismantleDate": "2026-10-27",
+  "stallSizeSqm": 200,
+  "stallType": "Custom Build",
+  "status": "Fabrication",
+  "priority": "Medium",
+  "progress": 56,
+  "budget": 1926000,
+  "spent": 992962,
+  "projectManagerId": "TM-004",
+  "teamIds": [
+   "TM-004",
+   "TM-008",
+   "TM-011",
+   "TM-012",
+   "TM-015"
+  ],
+  "vendorIds": [
+   "VD-025",
+   "VD-016",
+   "VD-013",
+   "VD-030",
+   "VD-032",
+   "VD-018"
+  ],
+  "tags": [
+   "Product Launch",
+   "Interactive Kiosk",
+   "Sustainability"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 200 sqm for Havells India at Light India 2026, Bharat Mandapam (Pragati Maidan) (Hall 4). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-07-05",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-07-30",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-09-06",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-09-14",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-10-03",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-10-16",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-10-20",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-10-22",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-10-23",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-10-27",
+    "done": false
+   }
+  ],
+  "openSides": 4,
+  "heightM": 6,
+  "deliverables": [
+   "LED video wall",
+   "Storage room",
+   "Reception counter",
+   "Mezzanine floor",
+   "Product display podiums",
+   "Interactive kiosk"
+  ],
+  "createdAt": "2026-06-27"
+ },
+ {
+  "id": "EV-021",
+  "title": "Okaya \u2013 India Energy Storage Week",
+  "clientId": "CL-001",
+  "exhibition": "India Energy Storage Week 2026",
+  "venueId": "VN-003",
+  "hall": "Hall 3",
+  "stallNo": "C3",
+  "startDate": "2026-10-28",
+  "endDate": "2026-10-30",
+  "setupDate": "2026-10-25",
+  "dismantleDate": "2026-10-31",
+  "stallSizeSqm": 80,
+  "stallType": "Custom Build",
+  "status": "Fabrication",
+  "priority": "Medium",
+  "progress": 43,
+  "budget": 873000,
+  "spent": 418147,
+  "projectManagerId": "TM-005",
+  "teamIds": [
+   "TM-005",
+   "TM-006",
+   "TM-010",
+   "TM-001"
+  ],
+  "vendorIds": [
+   "VD-003",
+   "VD-020",
+   "VD-025",
+   "VD-018",
+   "VD-011",
+   "VD-024",
+   "VD-031"
+  ],
+  "tags": [
+   "Repeat Client",
+   "Double Decker",
+   "Meeting Rooms"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 80 sqm for Okaya EV at India Energy Storage Week 2026, Yashobhoomi (IICC) (Hall 3). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-07-25",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-08-10",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-09-11",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-09-25",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-10-09",
+    "done": true
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-10-22",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-10-25",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-10-27",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-10-28",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-10-31",
+    "done": false
+   }
+  ],
+  "openSides": 4,
+  "heightM": 8,
+  "deliverables": [
+   "Product display podiums",
+   "Reception counter",
+   "Storage room",
+   "Meeting room"
+  ],
+  "createdAt": "2026-07-21"
+ },
+ {
+  "id": "EV-020",
+  "title": "Dabur \u2013 IndiaFoods & Beverage Fair",
+  "clientId": "CL-020",
+  "exhibition": "Food & Beverage Fair 2026",
+  "venueId": "VN-005",
+  "hall": "Hall 3",
+  "stallNo": "G33",
+  "startDate": "2026-11-06",
+  "endDate": "2026-11-08",
+  "setupDate": "2026-11-02",
+  "dismantleDate": "2026-11-09",
+  "stallSizeSqm": 54,
+  "stallType": "Custom Build",
+  "status": "Fabrication",
+  "priority": "Low",
+  "progress": 44,
+  "budget": 522000,
+  "spent": 282703,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-007",
+   "TM-011",
+   "TM-016",
+   "TM-008",
+   "TM-012"
+  ],
+  "vendorIds": [
+   "VD-032",
+   "VD-023",
+   "VD-012",
+   "VD-026",
+   "VD-028",
+   "VD-009"
+  ],
+  "tags": [
+   "Double Decker",
+   "LED Wall",
+   "Interactive Kiosk"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 54 sqm for Dabur India at Food & Beverage Fair 2026, Bombay Exhibition Centre (NESCO) (Hall 3). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-07-15",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-09-08",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-09-20",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-10-07",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-10-23",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-10-29",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-11-02",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-11-05",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-11-06",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-11-09",
+    "done": false
+   }
+  ],
+  "openSides": 2,
+  "heightM": 5,
+  "deliverables": [
+   "Mezzanine floor",
+   "Demo zone",
+   "Hospitality lounge",
+   "VIP area"
+  ],
+  "createdAt": "2026-08-02"
+ },
+ {
+  "id": "EV-027",
+  "title": "Avery Dennison \u2013 Labelexpo India 2026",
+  "clientId": "CL-008",
+  "exhibition": "Labelexpo India 2026",
+  "venueId": "VN-001",
+  "hall": "Hall 7",
+  "stallNo": "D36",
+  "startDate": "2026-11-12",
+  "endDate": "2026-11-15",
+  "setupDate": "2026-11-09",
+  "dismantleDate": "2026-11-16",
+  "stallSizeSqm": 150,
+  "stallType": "Custom Build",
+  "status": "Fabrication",
+  "priority": "Medium",
+  "progress": 42,
+  "budget": 1345000,
+  "spent": 577350,
+  "projectManagerId": "TM-003",
+  "teamIds": [
+   "TM-003",
+   "TM-007",
+   "TM-009",
+   "TM-013"
+  ],
+  "vendorIds": [
+   "VD-015",
+   "VD-010",
+   "VD-030",
+   "VD-017",
+   "VD-012"
+  ],
+  "tags": [
+   "Branding Heavy",
+   "Hospitality Lounge"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 150 sqm for Avery Dennison at Labelexpo India 2026, India Expo Mart (IEML) (Hall 7). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-07-16",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-08-28",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-09-20",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-10-07",
+    "done": true
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-10-29",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-11-06",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-11-09",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-11-11",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-11-12",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-11-16",
+    "done": false
+   }
+  ],
+  "openSides": 1,
+  "heightM": 8,
+  "deliverables": [
+   "Pantry",
+   "Interactive kiosk",
+   "LED video wall",
+   "Mezzanine floor",
+   "Hospitality lounge"
+  ],
+  "createdAt": "2026-07-09"
+ },
+ {
+  "id": "EV-015",
+  "title": "Hero Electric \u2013 EV India Expo 2026",
+  "clientId": "CL-015",
+  "exhibition": "EV India Expo 2026",
+  "venueId": "VN-001",
+  "hall": "Hall 9",
+  "stallNo": "E21",
+  "startDate": "2026-11-18",
+  "endDate": "2026-11-20",
+  "setupDate": "2026-11-15",
+  "dismantleDate": "2026-11-21",
+  "stallSizeSqm": 160,
+  "stallType": "Custom Build",
+  "status": "Fabrication",
+  "priority": "High",
+  "progress": 53,
+  "budget": 1411000,
+  "spent": 650158,
+  "projectManagerId": "TM-004",
+  "teamIds": [
+   "TM-004",
+   "TM-007",
+   "TM-009",
+   "TM-015",
+   "TM-016"
+  ],
+  "vendorIds": [
+   "VD-025",
+   "VD-029",
+   "VD-014",
+   "VD-003",
+   "VD-011",
+   "VD-023",
+   "VD-028"
+  ],
+  "tags": [
+   "Meeting Rooms",
+   "Heavy Machinery"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 160 sqm for Hero Electric at EV India Expo 2026, India Expo Mart (IEML) (Hall 9). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-07-13",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-09-10",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-09-28",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-10-16",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-11-03",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-11-13",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-11-15",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-11-17",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-11-18",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-11-21",
+    "done": false
+   }
+  ],
+  "openSides": 2,
+  "heightM": 4.5,
+  "deliverables": [
+   "VIP area",
+   "Meeting room",
+   "Interactive kiosk",
+   "Pantry",
+   "Hospitality lounge",
+   "Reception counter",
+   "Mezzanine floor"
+  ],
+  "createdAt": "2026-07-04"
+ },
+ {
+  "id": "EV-025",
+  "title": "Canara Bank \u2013 Bengaluru Tech Summit",
+  "clientId": "CL-012",
+  "exhibition": "Bengaluru Tech Summit 2026",
+  "venueId": "VN-006",
+  "hall": "Hall 1",
+  "stallNo": "F26",
+  "startDate": "2026-11-19",
+  "endDate": "2026-11-21",
+  "setupDate": "2026-11-16",
+  "dismantleDate": "2026-11-22",
+  "stallSizeSqm": 60,
+  "stallType": "Modular",
+  "status": "Fabrication",
+  "priority": "Medium",
+  "progress": 60,
+  "budget": 384000,
+  "spent": 141603,
+  "projectManagerId": "TM-005",
+  "teamIds": [
+   "TM-005",
+   "TM-006",
+   "TM-010",
+   "TM-008"
+  ],
+  "vendorIds": [
+   "VD-018",
+   "VD-021",
+   "VD-028",
+   "VD-004",
+   "VD-008",
+   "VD-031"
+  ],
+  "tags": [
+   "Hospitality Lounge",
+   "LED Wall",
+   "Product Launch",
+   "Flagship"
+  ],
+  "images": [],
+  "description": "Modular exhibition stand of 60 sqm for Canara Bank at Bengaluru Tech Summit 2026, BIEC (Hall 1). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-07-29",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-09-09",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-09-25",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-10-20",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-11-07",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-11-13",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-11-16",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-11-18",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-11-19",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-11-22",
+    "done": false
+   }
+  ],
+  "openSides": 2,
+  "heightM": 6,
+  "deliverables": [
+   "VIP area",
+   "Product display podiums",
+   "Storage room",
+   "Pantry",
+   "Demo zone",
+   "Mezzanine floor",
+   "Interactive kiosk"
+  ],
+  "createdAt": "2026-08-03"
+ },
+ {
+  "id": "EV-019",
+  "title": "JK Cement \u2013 Build Expo Hyderabad",
+  "clientId": "CL-019",
+  "exhibition": "Build Expo 2026",
+  "venueId": "VN-008",
+  "hall": "Hall 1",
+  "stallNo": "F32",
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-29",
+  "setupDate": "2026-11-25",
+  "dismantleDate": "2026-11-30",
+  "stallSizeSqm": 72,
+  "stallType": "Custom Build",
+  "status": "Design",
+  "priority": "High",
+  "progress": 34,
+  "budget": 675000,
+  "spent": 151717,
+  "projectManagerId": "TM-005",
+  "teamIds": [
+   "TM-005",
+   "TM-006",
+   "TM-009",
+   "TM-013",
+   "TM-011"
+  ],
+  "vendorIds": [
+   "VD-009",
+   "VD-029",
+   "VD-026",
+   "VD-006",
+   "VD-020",
+   "VD-014"
+  ],
+  "tags": [
+   "Double Decker",
+   "Repeat Client"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 72 sqm for JK Cement at Build Expo 2026, HITEX Exhibition Centre (Hall 1). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-08-08",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-10-01",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-10-04",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-10-29",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-11-10",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-11-20",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-11-25",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-11-26",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-11-27",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-11-30",
+    "done": false
+   }
+  ],
+  "openSides": 1,
+  "heightM": 5,
+  "deliverables": [
+   "VIP area",
+   "Interactive kiosk",
+   "Mezzanine floor",
+   "Reception counter"
+  ],
+  "createdAt": "2026-07-18"
+ },
+ {
+  "id": "EV-016",
+  "title": "Amul \u2013 India Dairy Expo 2026",
+  "clientId": "CL-016",
+  "exhibition": "India Dairy Expo 2026",
+  "venueId": "VN-001",
+  "hall": "Hall 4",
+  "stallNo": "F11",
+  "startDate": "2026-12-03",
+  "endDate": "2026-12-05",
+  "setupDate": "2026-11-30",
+  "dismantleDate": "2026-12-06",
+  "stallSizeSqm": 120,
+  "stallType": "Custom Build",
+  "status": "Design",
+  "priority": "High",
+  "progress": 17,
+  "budget": 1042000,
+  "spent": 86679,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-007",
+   "TM-009",
+   "TM-014"
+  ],
+  "vendorIds": [
+   "VD-032",
+   "VD-019",
+   "VD-005",
+   "VD-021",
+   "VD-028",
+   "VD-024",
+   "VD-011"
+  ],
+  "tags": [
+   "Branding Heavy",
+   "Product Launch",
+   "Sustainability",
+   "Interactive Kiosk"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 120 sqm for Amul (GCMMF) at India Dairy Expo 2026, India Expo Mart (IEML) (Hall 4). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-07-30",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-09-26",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-10-10",
+    "done": true
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-10-27",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-11-15",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-11-26",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-11-30",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-12-02",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-12-03",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-12-06",
+    "done": false
+   }
+  ],
+  "openSides": 2,
+  "heightM": 5,
+  "deliverables": [
+   "Interactive kiosk",
+   "Mezzanine floor",
+   "LED video wall",
+   "Meeting room",
+   "Product display podiums",
+   "Demo zone"
+  ],
+  "createdAt": "2026-08-19"
+ },
+ {
+  "id": "EV-023",
+  "title": "Eaton \u2013 Intersolar India 2026",
+  "clientId": "CL-007",
+  "exhibition": "Intersolar India 2026",
+  "venueId": "VN-009",
+  "hall": "Hall 3",
+  "stallNo": "D3",
+  "startDate": "2026-12-10",
+  "endDate": "2026-12-12",
+  "setupDate": "2026-12-07",
+  "dismantleDate": "2026-12-13",
+  "stallSizeSqm": 96,
+  "stallType": "Modular",
+  "status": "Design",
+  "priority": "High",
+  "progress": 26,
+  "budget": 456000,
+  "spent": 66471,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-008",
+   "TM-011",
+   "TM-001"
+  ],
+  "vendorIds": [
+   "VD-025",
+   "VD-017",
+   "VD-008",
+   "VD-024",
+   "VD-031",
+   "VD-030"
+  ],
+  "tags": [
+   "Live Demo",
+   "Hospitality Lounge"
+  ],
+  "images": [],
+  "description": "Modular exhibition stand of 96 sqm for Eaton India at Intersolar India 2026, Mahatma Mandir Convention Centre (Hall 3). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-07-26",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-10-16",
+    "done": false
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-10-21",
+    "done": false
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-11-13",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-11-23",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-12-04",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-12-07",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-12-09",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-12-10",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-12-13",
+    "done": false
+   }
+  ],
+  "openSides": 4,
+  "heightM": 8,
+  "deliverables": [
+   "Storage room",
+   "Reception counter",
+   "Meeting room",
+   "Interactive kiosk",
+   "Hospitality lounge",
+   "Hanging banner",
+   "Mezzanine floor"
+  ],
+  "createdAt": "2026-08-01"
+ },
+ {
+  "id": "EV-031",
+  "title": "Summit Sports \u2013 FSM Expo Chennai",
+  "clientId": "CL-009",
+  "exhibition": "Flooring & Surfaces Meet 2026",
+  "venueId": "VN-007",
+  "hall": "Hall 2",
+  "stallNo": "B13",
+  "startDate": "2026-12-17",
+  "endDate": "2026-12-19",
+  "setupDate": "2026-12-14",
+  "dismantleDate": "2026-12-20",
+  "stallSizeSqm": 48,
+  "stallType": "Modular",
+  "status": "Design",
+  "priority": "High",
+  "progress": 24,
+  "budget": 271000,
+  "spent": 54331,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-008",
+   "TM-016",
+   "TM-015",
+   "TM-014"
+  ],
+  "vendorIds": [
+   "VD-032",
+   "VD-002",
+   "VD-027",
+   "VD-023",
+   "VD-010"
+  ],
+  "tags": [
+   "Live Demo",
+   "Heavy Machinery",
+   "Double Decker"
+  ],
+  "images": [],
+  "description": "Modular exhibition stand of 48 sqm for Summit Sports at Flooring & Surfaces Meet 2026, Chennai Trade Centre (Hall 2). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-09-17",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-10-12",
+    "done": true
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-10-28",
+    "done": false
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-11-19",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-11-29",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2026-12-10",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2026-12-14",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2026-12-16",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2026-12-17",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2026-12-20",
+    "done": false
+   }
+  ],
+  "openSides": 4,
+  "heightM": 4.5,
+  "deliverables": [
+   "VIP area",
+   "Pantry",
+   "Demo zone",
+   "Reception counter",
+   "LED video wall",
+   "Storage room",
+   "Product display podiums"
+  ],
+  "createdAt": "2026-08-14"
+ },
+ {
+  "id": "EV-024",
+  "title": "Adani \u2013 Vibrant Gujarat 2027",
+  "clientId": "CL-004",
+  "exhibition": "Vibrant Gujarat Global Summit 2027",
+  "venueId": "VN-009",
+  "hall": "Hall 1",
+  "stallNo": "B6",
+  "startDate": "2027-01-10",
+  "endDate": "2027-01-12",
+  "setupDate": "2027-01-07",
+  "dismantleDate": "2027-01-13",
+  "stallSizeSqm": 500,
+  "stallType": "Double Decker",
+  "status": "Planning",
+  "priority": "Medium",
+  "progress": 7,
+  "budget": 7367000,
+  "spent": 73360,
+  "projectManagerId": "TM-005",
+  "teamIds": [
+   "TM-005",
+   "TM-008",
+   "TM-016",
+   "TM-013",
+   "TM-009"
+  ],
+  "vendorIds": [
+   "VD-031",
+   "VD-022",
+   "VD-006",
+   "VD-030"
+  ],
+  "tags": [
+   "Hospitality Lounge",
+   "Repeat Client",
+   "Meeting Rooms",
+   "Heavy Machinery"
+  ],
+  "images": [],
+  "description": "Double Decker exhibition stand of 500 sqm for Adani Group at Vibrant Gujarat Global Summit 2027, Mahatma Mandir Convention Centre (Hall 1). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-09-17",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-10-24",
+    "done": false
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-11-19",
+    "done": false
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-12-04",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2026-12-24",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2027-01-04",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2027-01-07",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2027-01-09",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2027-01-10",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2027-01-13",
+    "done": false
+   }
+  ],
+  "openSides": 2,
+  "heightM": 6,
+  "deliverables": [
+   "Demo zone",
+   "Reception counter",
+   "Hospitality lounge",
+   "Hanging banner",
+   "Storage room",
+   "Pantry"
+  ],
+  "createdAt": "2026-08-23"
+ },
+ {
+  "id": "EV-014",
+  "title": "Tata Motors \u2013 Auto Expo 2027",
+  "clientId": "CL-014",
+  "exhibition": "Bharat Mobility Global Expo 2027",
+  "venueId": "VN-002",
+  "hall": "Hall 1",
+  "stallNo": "G27",
+  "startDate": "2027-01-19",
+  "endDate": "2027-01-24",
+  "setupDate": "2027-01-16",
+  "dismantleDate": "2027-01-25",
+  "stallSizeSqm": 640,
+  "stallType": "Double Decker",
+  "status": "Planning",
+  "priority": "Medium",
+  "progress": 14,
+  "budget": 11097000,
+  "spent": 326305,
+  "projectManagerId": "TM-003",
+  "teamIds": [
+   "TM-003",
+   "TM-007",
+   "TM-011",
+   "TM-010",
+   "TM-001"
+  ],
+  "vendorIds": [
+   "VD-010",
+   "VD-027",
+   "VD-020",
+   "VD-007",
+   "VD-031"
+  ],
+  "tags": [
+   "Double Decker",
+   "Live Demo",
+   "Hospitality Lounge"
+  ],
+  "images": [],
+  "description": "Double Decker exhibition stand of 640 sqm for Tata Motors at Bharat Mobility Global Expo 2027, Bharat Mandapam (Pragati Maidan) (Hall 1). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-09-15",
+    "done": true
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-11-18",
+    "done": false
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-11-29",
+    "done": false
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2026-12-25",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2027-01-03",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2027-01-14",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2027-01-16",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2027-01-18",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2027-01-19",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2027-01-25",
+    "done": false
+   }
+  ],
+  "openSides": 3,
+  "heightM": 8,
+  "deliverables": [
+   "Reception counter",
+   "LED video wall",
+   "Mezzanine floor",
+   "Interactive kiosk"
+  ],
+  "createdAt": "2026-09-08"
+ },
+ {
+  "id": "EV-017",
+  "title": "Havells \u2013 ELECRAMA 2027",
+  "clientId": "CL-017",
+  "exhibition": "ELECRAMA 2027",
+  "venueId": "VN-001",
+  "hall": "Hall 12",
+  "stallNo": "E30",
+  "startDate": "2027-02-20",
+  "endDate": "2027-02-24",
+  "setupDate": "2027-02-16",
+  "dismantleDate": "2027-02-25",
+  "stallSizeSqm": 400,
+  "stallType": "Double Decker",
+  "status": "Planning",
+  "priority": "Medium",
+  "progress": 14,
+  "budget": 5620000,
+  "spent": 270838,
+  "projectManagerId": "TM-004",
+  "teamIds": [
+   "TM-004",
+   "TM-008",
+   "TM-011",
+   "TM-012"
+  ],
+  "vendorIds": [
+   "VD-023",
+   "VD-032",
+   "VD-016",
+   "VD-027"
+  ],
+  "tags": [
+   "Flagship",
+   "Live Demo"
+  ],
+  "images": [],
+  "description": "Double Decker exhibition stand of 400 sqm for Havells India at ELECRAMA 2027, India Expo Mart (IEML) (Hall 12). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-11-18",
+    "done": false
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-12-22",
+    "done": false
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2026-12-27",
+    "done": false
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2027-01-11",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2027-02-01",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2027-02-12",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2027-02-16",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2027-02-19",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2027-02-20",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2027-02-25",
+    "done": false
+   }
+  ],
+  "openSides": 3,
+  "heightM": 4,
+  "deliverables": [
+   "Pantry",
+   "Interactive kiosk",
+   "VIP area",
+   "Hanging banner"
+  ],
+  "createdAt": "2026-10-24"
+ },
+ {
+  "id": "EV-033",
+  "title": "Rehlko \u2013 Middle East Energy Prep (Design Only)",
+  "clientId": "CL-011",
+  "exhibition": "Middle East Energy 2027",
+  "venueId": "VN-004",
+  "hall": "Lotus Hall",
+  "stallNo": "C27",
+  "startDate": "2027-03-03",
+  "endDate": "2027-03-05",
+  "setupDate": "2027-03-01",
+  "dismantleDate": "2027-03-06",
+  "stallSizeSqm": 100,
+  "stallType": "Design Only",
+  "status": "Planning",
+  "priority": "Medium",
+  "progress": 5,
+  "budget": 282000,
+  "spent": 16859,
+  "projectManagerId": "TM-003",
+  "teamIds": [
+   "TM-003",
+   "TM-006",
+   "TM-009",
+   "TM-013",
+   "TM-008",
+   "TM-015"
+  ],
+  "vendorIds": [
+   "VD-005",
+   "VD-022",
+   "VD-017",
+   "VD-023"
+  ],
+  "tags": [
+   "Branding Heavy",
+   "LED Wall",
+   "Hospitality Lounge"
+  ],
+  "images": [],
+  "description": "Design Only exhibition stand of 100 sqm for Rehlko (Kohler Energy) at Middle East Energy 2027, Jio World Convention Centre (Lotus Hall). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-10-30",
+    "done": false
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-12-30",
+    "done": false
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2027-01-09",
+    "done": false
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2027-01-29",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2027-02-17",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2027-02-26",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2027-03-01",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2027-03-02",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2027-03-03",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2027-03-06",
+    "done": false
+   }
+  ],
+  "openSides": 3,
+  "heightM": 5,
+  "deliverables": [
+   "Product display podiums",
+   "Mezzanine floor",
+   "Pantry",
+   "Meeting room"
+  ],
+  "createdAt": "2026-10-30"
+ },
+ {
+  "id": "EV-030",
+  "title": "Hershey's \u2013 AAHAR 2027",
+  "clientId": "CL-006",
+  "exhibition": "AAHAR 2027",
+  "venueId": "VN-002",
+  "hall": "Hall 8",
+  "stallNo": "H34",
+  "startDate": "2027-03-09",
+  "endDate": "2027-03-13",
+  "setupDate": "2027-03-05",
+  "dismantleDate": "2027-03-14",
+  "stallSizeSqm": 81,
+  "stallType": "Custom Build",
+  "status": "Planning",
+  "priority": "Medium",
+  "progress": 8,
+  "budget": 790000,
+  "spent": 18239,
+  "projectManagerId": "TM-002",
+  "teamIds": [
+   "TM-002",
+   "TM-007",
+   "TM-011",
+   "TM-013",
+   "TM-010"
+  ],
+  "vendorIds": [
+   "VD-011",
+   "VD-027",
+   "VD-025",
+   "VD-022",
+   "VD-003"
+  ],
+  "tags": [
+   "Interactive Kiosk",
+   "Sustainability"
+  ],
+  "images": [],
+  "description": "Custom Build exhibition stand of 81 sqm for The Hershey Company India at AAHAR 2027, Bharat Mandapam (Pragati Maidan) (Hall 8). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-11-11",
+    "done": false
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-12-20",
+    "done": false
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2027-01-15",
+    "done": false
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2027-02-04",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2027-02-24",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2027-03-03",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2027-03-05",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2027-03-08",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2027-03-09",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2027-03-14",
+    "done": false
+   }
+  ],
+  "openSides": 2,
+  "heightM": 5,
+  "deliverables": [
+   "LED video wall",
+   "Hanging banner",
+   "Pantry",
+   "Storage room",
+   "Hospitality lounge",
+   "VIP area"
+  ],
+  "createdAt": "2026-11-07"
+ },
+ {
+  "id": "EV-018",
+  "title": "Godrej Appliances \u2013 ACREX 2027",
+  "clientId": "CL-018",
+  "exhibition": "ACREX India 2027",
+  "venueId": "VN-006",
+  "hall": "Hall 2",
+  "stallNo": "F24",
+  "startDate": "2027-03-11",
+  "endDate": "2027-03-13",
+  "setupDate": "2027-03-09",
+  "dismantleDate": "2027-03-14",
+  "stallSizeSqm": 96,
+  "stallType": "Modular",
+  "status": "Planning",
+  "priority": "Medium",
+  "progress": 13,
+  "budget": 550000,
+  "spent": 41986,
+  "projectManagerId": "TM-003",
+  "teamIds": [
+   "TM-003",
+   "TM-006",
+   "TM-016",
+   "TM-010"
+  ],
+  "vendorIds": [
+   "VD-025",
+   "VD-030",
+   "VD-009",
+   "VD-002"
+  ],
+  "tags": [
+   "Heavy Machinery",
+   "Live Demo",
+   "Interactive Kiosk"
+  ],
+  "images": [],
+  "description": "Modular exhibition stand of 96 sqm for Godrej Appliances at ACREX India 2027, BIEC (Hall 2). Scope covers concept design, 3D visualisation, fabrication, graphics, electricals, AV, furniture, on-site installation and dismantling.",
+  "milestones": [
+   {
+    "name": "Brief received",
+    "date": "2026-11-13",
+    "done": false
+   },
+   {
+    "name": "Concept & 3D render approved",
+    "date": "2026-12-17",
+    "done": false
+   },
+   {
+    "name": "Budget sign-off",
+    "date": "2027-01-16",
+    "done": false
+   },
+   {
+    "name": "Fabrication start",
+    "date": "2027-02-08",
+    "done": false
+   },
+   {
+    "name": "Graphics to print",
+    "date": "2027-02-22",
+    "done": false
+   },
+   {
+    "name": "Material dispatch",
+    "date": "2027-03-03",
+    "done": false
+   },
+   {
+    "name": "Setup begins",
+    "date": "2027-03-09",
+    "done": false
+   },
+   {
+    "name": "Handover to client",
+    "date": "2027-03-10",
+    "done": false
+   },
+   {
+    "name": "Show opens",
+    "date": "2027-03-11",
+    "done": false
+   },
+   {
+    "name": "Dismantle complete",
+    "date": "2027-03-14",
+    "done": false
+   }
+  ],
+  "openSides": 1,
+  "heightM": 5,
+  "deliverables": [
+   "Hospitality lounge",
+   "Product display podiums",
+   "VIP area",
+   "Hanging banner"
+  ],
+  "createdAt": "2026-11-23"
+ }
+]

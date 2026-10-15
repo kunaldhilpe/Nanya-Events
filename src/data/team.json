@@ -1,0 +1,290 @@
+[
+ {
+  "id": "TM-001",
+  "name": "Aarav Malhotra",
+  "role": "Founder & Creative Director",
+  "department": "Leadership",
+  "email": "aarav.malhotra@nanyastudio.in",
+  "phone": "+91 9826247735",
+  "color": "#0b2e24",
+  "joined": "2016-06-01",
+  "skills": [
+   "Photoshop",
+   "Budgeting",
+   "Electrical Layouts",
+   "Vendor Negotiation"
+  ],
+  "location": "New Delhi",
+  "availability": "Available"
+ },
+ {
+  "id": "TM-002",
+  "name": "Nandini Sethi",
+  "role": "Head of Projects",
+  "department": "Project Management",
+  "email": "nandini.sethi@nanyastudio.in",
+  "phone": "+91 9896911784",
+  "color": "#c9a24a",
+  "joined": "2021-01-01",
+  "skills": [
+   "MS Project",
+   "Budgeting",
+   "Client Relations",
+   "SketchUp"
+  ],
+  "location": "Mumbai",
+  "availability": "On Site"
+ },
+ {
+  "id": "TM-003",
+  "name": "Rohan Kapoor",
+  "role": "Senior Project Manager",
+  "department": "Project Management",
+  "email": "rohan.kapoor@nanyastudio.in",
+  "phone": "+91 9895306788",
+  "color": "#1f6f5c",
+  "joined": "2023-12-01",
+  "skills": [
+   "AutoCAD",
+   "Budgeting",
+   "MS Project",
+   "Photoshop"
+  ],
+  "location": "Gurugram",
+  "availability": "Available"
+ },
+ {
+  "id": "TM-004",
+  "name": "Ishita Banerjee",
+  "role": "Project Manager",
+  "department": "Project Management",
+  "email": "ishita.banerjee@nanyastudio.in",
+  "phone": "+91 9882232344",
+  "color": "#8e44ad",
+  "joined": "2023-08-01",
+  "skills": [
+   "Budgeting",
+   "Logistics",
+   "Illustrator",
+   "Site Management"
+  ],
+  "location": "Gurugram",
+  "availability": "On Site"
+ },
+ {
+  "id": "TM-005",
+  "name": "Kabir Khanna",
+  "role": "Project Manager",
+  "department": "Project Management",
+  "email": "kabir.khanna@nanyastudio.in",
+  "phone": "+91 9821631697",
+  "color": "#2980b9",
+  "joined": "2020-08-01",
+  "skills": [
+   "V-Ray",
+   "Safety & Compliance",
+   "Client Relations",
+   "Illustrator"
+  ],
+  "location": "Mumbai",
+  "availability": "On Site"
+ },
+ {
+  "id": "TM-006",
+  "name": "Sana Qureshi",
+  "role": "Lead 3D Designer",
+  "department": "Design",
+  "email": "sana.qureshi@nanyastudio.in",
+  "phone": "+91 9813852048",
+  "color": "#e67e22",
+  "joined": "2023-06-01",
+  "skills": [
+   "AutoCAD",
+   "Client Relations",
+   "V-Ray",
+   "Vendor Negotiation"
+  ],
+  "location": "Gurugram",
+  "availability": "On Site"
+ },
+ {
+  "id": "TM-007",
+  "name": "Dev Patel",
+  "role": "3D Visualiser",
+  "department": "Design",
+  "email": "dev.patel@nanyastudio.in",
+  "phone": "+91 9847535126",
+  "color": "#16a085",
+  "joined": "2020-09-01",
+  "skills": [
+   "3ds Max",
+   "Photoshop",
+   "V-Ray",
+   "SketchUp"
+  ],
+  "location": "Noida",
+  "availability": "Leave"
+ },
+ {
+  "id": "TM-008",
+  "name": "Tanya Roy",
+  "role": "Graphic Designer",
+  "department": "Design",
+  "email": "tanya.roy@nanyastudio.in",
+  "phone": "+91 9875575808",
+  "color": "#c0392b",
+  "joined": "2024-04-01",
+  "skills": [
+   "Logistics",
+   "Client Relations",
+   "Electrical Layouts",
+   "Safety & Compliance"
+  ],
+  "location": "Mumbai",
+  "availability": "Available"
+ },
+ {
+  "id": "TM-009",
+  "name": "Vikrant Chauhan",
+  "role": "Production Head",
+  "department": "Production",
+  "email": "vikrant.chauhan@nanyastudio.in",
+  "phone": "+91 9822489409",
+  "color": "#34495e",
+  "joined": "2020-04-01",
+  "skills": [
+   "Budgeting",
+   "Logistics",
+   "V-Ray",
+   "Site Management"
+  ],
+  "location": "Gurugram",
+  "availability": "Leave"
+ },
+ {
+  "id": "TM-010",
+  "name": "Mohit Saini",
+  "role": "Site Supervisor",
+  "department": "Production",
+  "email": "mohit.saini@nanyastudio.in",
+  "phone": "+91 9884285882",
+  "color": "#7f8c8d",
+  "joined": "2024-06-01",
+  "skills": [
+   "Budgeting",
+   "Logistics",
+   "Photoshop",
+   "Vendor Negotiation"
+  ],
+  "location": "Gurugram",
+  "availability": "Leave"
+ },
+ {
+  "id": "TM-011",
+  "name": "Farhan Ali",
+  "role": "Site Supervisor",
+  "department": "Production",
+  "email": "farhan.ali@nanyastudio.in",
+  "phone": "+91 9846361787",
+  "color": "#d35400",
+  "joined": "2020-05-01",
+  "skills": [
+   "V-Ray",
+   "SketchUp",
+   "Logistics",
+   "MS Project"
+  ],
+  "location": "Gurugram",
+  "availability": "Available"
+ },
+ {
+  "id": "TM-012",
+  "name": "Preeti Nair",
+  "role": "Procurement Lead",
+  "department": "Procurement",
+  "email": "preeti.nair@nanyastudio.in",
+  "phone": "+91 9881922443",
+  "color": "#27ae60",
+  "joined": "2018-04-01",
+  "skills": [
+   "V-Ray",
+   "Logistics",
+   "Client Relations",
+   "Site Management"
+  ],
+  "location": "Gurugram",
+  "availability": "Available"
+ },
+ {
+  "id": "TM-013",
+  "name": "Sahil Arora",
+  "role": "Accounts & Finance",
+  "department": "Finance",
+  "email": "sahil.arora@nanyastudio.in",
+  "phone": "+91 9836054020",
+  "color": "#2c3e50",
+  "joined": "2020-04-01",
+  "skills": [
+   "Vendor Negotiation",
+   "AutoCAD",
+   "Site Management",
+   "3ds Max"
+  ],
+  "location": "Noida",
+  "availability": "On Site"
+ },
+ {
+  "id": "TM-014",
+  "name": "Riya Mukherjee",
+  "role": "Client Servicing Manager",
+  "department": "Client Servicing",
+  "email": "riya.mukherjee@nanyastudio.in",
+  "phone": "+91 9816109013",
+  "color": "#9b59b6",
+  "joined": "2016-09-01",
+  "skills": [
+   "Site Management",
+   "Logistics",
+   "AutoCAD",
+   "Electrical Layouts"
+  ],
+  "location": "Mumbai",
+  "availability": "Available"
+ },
+ {
+  "id": "TM-015",
+  "name": "Aditya Jain",
+  "role": "Client Servicing Executive",
+  "department": "Client Servicing",
+  "email": "aditya.jain@nanyastudio.in",
+  "phone": "+91 9811646234",
+  "color": "#f39c12",
+  "joined": "2020-08-01",
+  "skills": [
+   "Client Relations",
+   "MS Project",
+   "Vendor Negotiation",
+   "AutoCAD"
+  ],
+  "location": "New Delhi",
+  "availability": "On Site"
+ },
+ {
+  "id": "TM-016",
+  "name": "Neel Desai",
+  "role": "Electrical Engineer",
+  "department": "Production",
+  "email": "neel.desai@nanyastudio.in",
+  "phone": "+91 9874119726",
+  "color": "#1abc9c",
+  "joined": "2017-02-01",
+  "skills": [
+   "Budgeting",
+   "Client Relations",
+   "SketchUp",
+   "Illustrator"
+  ],
+  "location": "New Delhi",
+  "availability": "On Site"
+ }
+]

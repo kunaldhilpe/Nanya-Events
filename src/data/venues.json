@@ -1,0 +1,372 @@
+[
+ {
+  "id": "VN-001",
+  "name": "India Expo Mart (IEML)",
+  "city": "Greater Noida",
+  "state": "Uttar Pradesh",
+  "address": "Knowledge Park II, Greater Noida 201306",
+  "halls": [
+   "Hall 1",
+   "Hall 2",
+   "Hall 3",
+   "Hall 4",
+   "Hall 5",
+   "Hall 6",
+   "Hall 7",
+   "Hall 8",
+   "Hall 9",
+   "Hall 10",
+   "Hall 11",
+   "Hall 12",
+   "Hall 14",
+   "Hall 15"
+  ],
+  "indoorAreaSqm": 235000,
+  "contact": {
+   "name": "Ops Desk",
+   "phone": "+91 1189864260"
+  },
+  "facilities": [
+   "Rigging Points",
+   "Compressed Air",
+   "Water Supply",
+   "Loading Bays",
+   "Fire NOC Desk",
+   "Internet Backbone"
+  ],
+  "rating": 4.4,
+  "lat": 28.47,
+  "lng": 77.5
+ },
+ {
+  "id": "VN-002",
+  "name": "Bharat Mandapam (Pragati Maidan)",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "address": "Mathura Road, New Delhi 110001",
+  "halls": [
+   "Hall 1",
+   "Hall 2",
+   "Hall 3",
+   "Hall 4",
+   "Hall 5",
+   "Hall 6",
+   "Hall 7",
+   "Hall 8",
+   "Hall 9",
+   "Hall 10",
+   "Hall 11",
+   "Hall 12",
+   "Hall 12A",
+   "Hall 14"
+  ],
+  "indoorAreaSqm": 123000,
+  "contact": {
+   "name": "Ops Desk",
+   "phone": "+91 1193131979"
+  },
+  "facilities": [
+   "Rigging Points",
+   "Water Supply",
+   "Truck Marshalling",
+   "3-Phase Power",
+   "Internet Backbone",
+   "Cold Storage"
+  ],
+  "rating": 3.9,
+  "lat": 28.61,
+  "lng": 77.23
+ },
+ {
+  "id": "VN-003",
+  "name": "Yashobhoomi (IICC)",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "address": "Dwarka Sector 25, New Delhi 110077",
+  "halls": [
+   "Hall 1",
+   "Hall 2",
+   "Hall 3",
+   "Hall 4",
+   "Hall 5"
+  ],
+  "indoorAreaSqm": 73000,
+  "contact": {
+   "name": "Exhibitor Services",
+   "phone": "+91 1127566185"
+  },
+  "facilities": [
+   "Fire NOC Desk",
+   "Forklift Hire",
+   "Truck Marshalling",
+   "Water Supply",
+   "Loading Bays",
+   "Cold Storage"
+  ],
+  "rating": 4.2,
+  "lat": 28.61,
+  "lng": 77.23
+ },
+ {
+  "id": "VN-004",
+  "name": "Jio World Convention Centre",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "address": "BKC, Bandra East, Mumbai 400051",
+  "halls": [
+   "Pavilion 1",
+   "Pavilion 2",
+   "Pavilion 3",
+   "Jasmine Hall",
+   "Lotus Hall"
+  ],
+  "indoorAreaSqm": 22500,
+  "contact": {
+   "name": "Venue Manager",
+   "phone": "+91 1123419256"
+  },
+  "facilities": [
+   "Rigging Points",
+   "Cold Storage",
+   "Compressed Air",
+   "Fire NOC Desk",
+   "3-Phase Power",
+   "Internet Backbone"
+  ],
+  "rating": 4.8,
+  "lat": 19.07,
+  "lng": 72.87
+ },
+ {
+  "id": "VN-005",
+  "name": "Bombay Exhibition Centre (NESCO)",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "address": "Western Express Highway, Goregaon East, Mumbai 400063",
+  "halls": [
+   "Hall 1",
+   "Hall 2",
+   "Hall 3",
+   "Hall 4",
+   "Hall 5",
+   "Hall 6"
+  ],
+  "indoorAreaSqm": 45000,
+  "contact": {
+   "name": "Ops Desk",
+   "phone": "+91 1142787299"
+  },
+  "facilities": [
+   "Truck Marshalling",
+   "Fire NOC Desk",
+   "3-Phase Power",
+   "Compressed Air",
+   "Cold Storage",
+   "Forklift Hire"
+  ],
+  "rating": 4.4,
+  "lat": 19.07,
+  "lng": 72.87
+ },
+ {
+  "id": "VN-006",
+  "name": "BIEC",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "address": "Tumkur Road, Madavara, Bengaluru 562123",
+  "halls": [
+   "Hall 1",
+   "Hall 2",
+   "Hall 3",
+   "Hall 4",
+   "Hall 5"
+  ],
+  "indoorAreaSqm": 61000,
+  "contact": {
+   "name": "Venue Manager",
+   "phone": "+91 1180993218"
+  },
+  "facilities": [
+   "Loading Bays",
+   "Cold Storage",
+   "Fire NOC Desk",
+   "Truck Marshalling",
+   "Internet Backbone",
+   "Rigging Points"
+  ],
+  "rating": 3.9,
+  "lat": 13.07,
+  "lng": 77.47
+ },
+ {
+  "id": "VN-007",
+  "name": "Chennai Trade Centre",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "address": "Nandambakkam, Chennai 600089",
+  "halls": [
+   "Hall 1",
+   "Hall 2",
+   "Hall 3"
+  ],
+  "indoorAreaSqm": 18000,
+  "contact": {
+   "name": "Ops Desk",
+   "phone": "+91 1184252420"
+  },
+  "facilities": [
+   "3-Phase Power",
+   "Fire NOC Desk",
+   "Cold Storage",
+   "Forklift Hire",
+   "Rigging Points",
+   "Internet Backbone"
+  ],
+  "rating": 3.9,
+  "lat": 13.0,
+  "lng": 80.18
+ },
+ {
+  "id": "VN-008",
+  "name": "HITEX Exhibition Centre",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "address": "Izzat Nagar, Hyderabad 500084",
+  "halls": [
+   "Hall 1",
+   "Hall 2",
+   "Hall 3",
+   "Hall 4"
+  ],
+  "indoorAreaSqm": 11000,
+  "contact": {
+   "name": "Venue Manager",
+   "phone": "+91 1145431319"
+  },
+  "facilities": [
+   "Cold Storage",
+   "Forklift Hire",
+   "Fire NOC Desk",
+   "Water Supply",
+   "Loading Bays",
+   "Truck Marshalling"
+  ],
+  "rating": 4.4,
+  "lat": 17.47,
+  "lng": 78.37
+ },
+ {
+  "id": "VN-009",
+  "name": "Mahatma Mandir Convention Centre",
+  "city": "Gandhinagar",
+  "state": "Gujarat",
+  "address": "Sector 13C, Gandhinagar 382016",
+  "halls": [
+   "Hall 1",
+   "Hall 2",
+   "Hall 3",
+   "Hall 4"
+  ],
+  "indoorAreaSqm": 25000,
+  "contact": {
+   "name": "Exhibitor Services",
+   "phone": "+91 1115917225"
+  },
+  "facilities": [
+   "Loading Bays",
+   "Truck Marshalling",
+   "3-Phase Power",
+   "Cold Storage",
+   "Forklift Hire",
+   "Rigging Points"
+  ],
+  "rating": 4.6,
+  "lat": 23.2,
+  "lng": 72.64
+ },
+ {
+  "id": "VN-010",
+  "name": "Codissia Trade Fair Complex",
+  "city": "Coimbatore",
+  "state": "Tamil Nadu",
+  "address": "Avinashi Road, Coimbatore 641014",
+  "halls": [
+   "Hall A",
+   "Hall B",
+   "Hall C",
+   "Hall D"
+  ],
+  "indoorAreaSqm": 22000,
+  "contact": {
+   "name": "Venue Manager",
+   "phone": "+91 1167403166"
+  },
+  "facilities": [
+   "Cold Storage",
+   "Loading Bays",
+   "Rigging Points",
+   "Internet Backbone",
+   "Truck Marshalling",
+   "Forklift Hire"
+  ],
+  "rating": 4.3,
+  "lat": 11.03,
+  "lng": 77.03
+ },
+ {
+  "id": "VN-011",
+  "name": "Science City Kolkata Grounds",
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "address": "JBS Haldane Avenue, Kolkata 700046",
+  "halls": [
+   "Main Hall",
+   "Mini Hall",
+   "Open Area"
+  ],
+  "indoorAreaSqm": 9000,
+  "contact": {
+   "name": "Exhibitor Services",
+   "phone": "+91 1188183110"
+  },
+  "facilities": [
+   "Cold Storage",
+   "3-Phase Power",
+   "Water Supply",
+   "Rigging Points",
+   "Loading Bays",
+   "Internet Backbone"
+  ],
+  "rating": 4.1,
+  "lat": 22.54,
+  "lng": 88.4
+ },
+ {
+  "id": "VN-012",
+  "name": "Autonagar Open Grounds (EXCON)",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "address": "BIEC outdoor display area",
+  "halls": [
+   "Outdoor A",
+   "Outdoor B",
+   "Outdoor C"
+  ],
+  "indoorAreaSqm": 80000,
+  "contact": {
+   "name": "Ops Desk",
+   "phone": "+91 1158024342"
+  },
+  "facilities": [
+   "Compressed Air",
+   "Internet Backbone",
+   "Rigging Points",
+   "3-Phase Power",
+   "Fire NOC Desk",
+   "Cold Storage"
+  ],
+  "rating": 4.9,
+  "lat": 13.07,
+  "lng": 77.47
+ }
+]

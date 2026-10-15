@@ -1,0 +1,362 @@
+[
+ {
+  "id": "NT-040",
+  "type": "task",
+  "message": "Vikrant Chauhan completed a task on Canara Bank \u2013 Global Fintech Fest 2026",
+  "eventId": "EV-012",
+  "userId": "TM-009",
+  "read": true,
+  "timestamp": "2026-10-15T17:15:00"
+ },
+ {
+  "id": "NT-025",
+  "type": "payment",
+  "message": "Vendor payment of \u20b9462,000 due for Eaton \u2013 ELECRAMA 2025",
+  "eventId": "EV-007",
+  "userId": "TM-002",
+  "read": true,
+  "timestamp": "2026-10-15T14:24:00"
+ },
+ {
+  "id": "NT-021",
+  "type": "payment",
+  "message": "Vendor payment of \u20b9382,000 due for Hershey's \u2013 AAHAR 2027",
+  "eventId": "EV-030",
+  "userId": "TM-009",
+  "read": true,
+  "timestamp": "2026-10-15T13:57:00"
+ },
+ {
+  "id": "NT-012",
+  "type": "milestone",
+  "message": "Milestone reached: Fabrication start \u2013 Avery Dennison \u2013 Labelexpo India 2026",
+  "eventId": "EV-027",
+  "userId": "TM-014",
+  "read": true,
+  "timestamp": "2026-10-15T08:49:00"
+ },
+ {
+  "id": "NT-006",
+  "type": "comment",
+  "message": "Sahil Arora commented on Havells \u2013 Light India 2026",
+  "eventId": "EV-032",
+  "userId": "TM-013",
+  "read": false,
+  "timestamp": "2026-10-14T17:30:00"
+ },
+ {
+  "id": "NT-010",
+  "type": "task",
+  "message": "Preeti Nair completed a task on Kobelco \u2013 EXCON 2023 Outdoor Pavilion",
+  "eventId": "EV-002",
+  "userId": "TM-012",
+  "read": false,
+  "timestamp": "2026-10-14T16:30:00"
+ },
+ {
+  "id": "NT-014",
+  "type": "milestone",
+  "message": "Milestone reached: Material dispatch \u2013 Canara Bank \u2013 Bengaluru Tech Summit",
+  "eventId": "EV-025",
+  "userId": "TM-005",
+  "read": true,
+  "timestamp": "2026-10-14T15:07:00"
+ },
+ {
+  "id": "NT-023",
+  "type": "payment",
+  "message": "Vendor payment of \u20b9396,000 due for Summit Sports \u2013 SFI 2026",
+  "eventId": "EV-009",
+  "userId": "TM-004",
+  "read": true,
+  "timestamp": "2026-10-12T19:28:00"
+ },
+ {
+  "id": "NT-015",
+  "type": "approval",
+  "message": "Client approval pending on 3D render for Hero Electric \u2013 EV India Expo 2026",
+  "eventId": "EV-015",
+  "userId": "TM-012",
+  "read": false,
+  "timestamp": "2026-10-12T11:05:00"
+ },
+ {
+  "id": "NT-039",
+  "type": "comment",
+  "message": "Aditya Jain commented on Rehlko \u2013 Middle East Energy Prep (Design Only)",
+  "eventId": "EV-033",
+  "userId": "TM-015",
+  "read": true,
+  "timestamp": "2026-10-12T08:45:00"
+ },
+ {
+  "id": "NT-031",
+  "type": "vendor",
+  "message": "New vendor quotation received for Canara Bank \u2013 Bengaluru Tech Summit",
+  "eventId": "EV-025",
+  "userId": "TM-015",
+  "read": false,
+  "timestamp": "2026-10-11T20:43:00"
+ },
+ {
+  "id": "NT-020",
+  "type": "vendor",
+  "message": "New vendor quotation received for Rehlko \u2013 Power Gen Expo 2026",
+  "eventId": "EV-011",
+  "userId": "TM-015",
+  "read": false,
+  "timestamp": "2026-10-11T18:15:00"
+ },
+ {
+  "id": "NT-034",
+  "type": "payment",
+  "message": "Vendor payment of \u20b9316,000 due for Delta Electronics \u2013 ELECRAMA 2023",
+  "eventId": "EV-010",
+  "userId": "TM-004",
+  "read": true,
+  "timestamp": "2026-10-11T10:28:00"
+ },
+ {
+  "id": "NT-017",
+  "type": "task",
+  "message": "Nandini Sethi completed a task on Tops \u2013 AAHAR 2026",
+  "eventId": "EV-029",
+  "userId": "TM-002",
+  "read": true,
+  "timestamp": "2026-10-11T08:20:00"
+ },
+ {
+  "id": "NT-007",
+  "type": "task",
+  "message": "Aarav Malhotra completed a task on Canara Bank \u2013 Global Fintech Fest 2026",
+  "eventId": "EV-012",
+  "userId": "TM-001",
+  "read": true,
+  "timestamp": "2026-10-10T20:03:00"
+ },
+ {
+  "id": "NT-035",
+  "type": "milestone",
+  "message": "Milestone reached: Material dispatch \u2013 Adani \u2013 Vibrant Gujarat 2027",
+  "eventId": "EV-024",
+  "userId": "TM-001",
+  "read": true,
+  "timestamp": "2026-10-10T15:40:00"
+ },
+ {
+  "id": "NT-004",
+  "type": "payment",
+  "message": "Vendor payment of \u20b9449,000 due for Grundfos \u2013 Dairy Expo 2023",
+  "eventId": "EV-003",
+  "userId": "TM-008",
+  "read": true,
+  "timestamp": "2026-10-10T09:55:00"
+ },
+ {
+  "id": "NT-026",
+  "type": "approval",
+  "message": "Client approval pending on 3D render for Summit Sports \u2013 FSM Expo Chennai",
+  "eventId": "EV-031",
+  "userId": "TM-002",
+  "read": true,
+  "timestamp": "2026-10-09T16:03:00"
+ },
+ {
+  "id": "NT-037",
+  "type": "approval",
+  "message": "Client approval pending on 3D render for Avery Dennison \u2013 Labelexpo India",
+  "eventId": "EV-008",
+  "userId": "TM-015",
+  "read": true,
+  "timestamp": "2026-10-08T10:14:00"
+ },
+ {
+  "id": "NT-013",
+  "type": "vendor",
+  "message": "New vendor quotation received for Kobelco \u2013 EXCON 2025",
+  "eventId": "EV-026",
+  "userId": "TM-013",
+  "read": true,
+  "timestamp": "2026-10-08T08:24:00"
+ },
+ {
+  "id": "NT-005",
+  "type": "task",
+  "message": "Mohit Saini completed a task on Godrej \u2013 Kolkata Consumer Fair",
+  "eventId": "EV-034",
+  "userId": "TM-010",
+  "read": true,
+  "timestamp": "2026-10-07T17:32:00"
+ },
+ {
+  "id": "NT-030",
+  "type": "milestone",
+  "message": "Milestone reached: Setup begins \u2013 Godrej Appliances \u2013 ACREX 2027",
+  "eventId": "EV-018",
+  "userId": "TM-015",
+  "read": true,
+  "timestamp": "2026-10-07T12:10:00"
+ },
+ {
+  "id": "NT-011",
+  "type": "vendor",
+  "message": "New vendor quotation received for Adani \u2013 World Food India 2025",
+  "eventId": "EV-004",
+  "userId": "TM-009",
+  "read": true,
+  "timestamp": "2026-10-07T11:41:00"
+ },
+ {
+  "id": "NT-022",
+  "type": "payment",
+  "message": "Vendor payment of \u20b965,000 due for Amul \u2013 India Dairy Expo 2026",
+  "eventId": "EV-016",
+  "userId": "TM-016",
+  "read": false,
+  "timestamp": "2026-10-07T11:19:00"
+ },
+ {
+  "id": "NT-001",
+  "type": "comment",
+  "message": "Neel Desai commented on Summit Sports \u2013 SFI 2026",
+  "eventId": "EV-009",
+  "userId": "TM-016",
+  "read": false,
+  "timestamp": "2026-10-07T10:51:00"
+ },
+ {
+  "id": "NT-027",
+  "type": "comment",
+  "message": "Nandini Sethi commented on Havells \u2013 Light India 2026",
+  "eventId": "EV-032",
+  "userId": "TM-002",
+  "read": false,
+  "timestamp": "2026-10-06T20:57:00"
+ },
+ {
+  "id": "NT-003",
+  "type": "task",
+  "message": "Mohit Saini completed a task on Hershey's \u2013 AAHAR 2027",
+  "eventId": "EV-030",
+  "userId": "TM-010",
+  "read": true,
+  "timestamp": "2026-10-06T16:21:00"
+ },
+ {
+  "id": "NT-036",
+  "type": "task",
+  "message": "Riya Mukherjee completed a task on Summit Sports \u2013 SFI 2026",
+  "eventId": "EV-009",
+  "userId": "TM-014",
+  "read": true,
+  "timestamp": "2026-10-06T16:20:00"
+ },
+ {
+  "id": "NT-028",
+  "type": "comment",
+  "message": "Vikrant Chauhan commented on Dabur \u2013 IndiaFoods & Beverage Fair",
+  "eventId": "EV-020",
+  "userId": "TM-009",
+  "read": true,
+  "timestamp": "2026-10-06T14:55:00"
+ },
+ {
+  "id": "NT-024",
+  "type": "task",
+  "message": "Ishita Banerjee completed a task on Adani \u2013 Vibrant Gujarat 2027",
+  "eventId": "EV-024",
+  "userId": "TM-004",
+  "read": true,
+  "timestamp": "2026-10-06T14:19:00"
+ },
+ {
+  "id": "NT-032",
+  "type": "approval",
+  "message": "Client approval pending on 3D render for CG Power \u2013 SWITCH Global Expo 2026",
+  "eventId": "EV-013",
+  "userId": "TM-003",
+  "read": true,
+  "timestamp": "2026-10-06T14:02:00"
+ },
+ {
+  "id": "NT-002",
+  "type": "milestone",
+  "message": "Milestone reached: Material dispatch \u2013 Avery Dennison \u2013 Labelexpo India",
+  "eventId": "EV-008",
+  "userId": "TM-015",
+  "read": false,
+  "timestamp": "2026-10-06T09:08:00"
+ },
+ {
+  "id": "NT-029",
+  "type": "task",
+  "message": "Nandini Sethi completed a task on Eaton \u2013 Intersolar India 2026",
+  "eventId": "EV-023",
+  "userId": "TM-002",
+  "read": false,
+  "timestamp": "2026-10-05T12:54:00"
+ },
+ {
+  "id": "NT-018",
+  "type": "payment",
+  "message": "Vendor payment of \u20b991,000 due for Avery Dennison \u2013 Labelexpo India 2026",
+  "eventId": "EV-027",
+  "userId": "TM-008",
+  "read": true,
+  "timestamp": "2026-10-05T09:42:00"
+ },
+ {
+  "id": "NT-038",
+  "type": "comment",
+  "message": "Kabir Khanna commented on Delta \u2013 Intersolar India 2025",
+  "eventId": "EV-028",
+  "userId": "TM-005",
+  "read": true,
+  "timestamp": "2026-10-05T08:11:00"
+ },
+ {
+  "id": "NT-009",
+  "type": "milestone",
+  "message": "Milestone reached: Setup begins \u2013 Okaya EV \u2013 EV India Expo 2024",
+  "eventId": "EV-001",
+  "userId": "TM-008",
+  "read": false,
+  "timestamp": "2026-10-04T20:51:00"
+ },
+ {
+  "id": "NT-019",
+  "type": "payment",
+  "message": "Vendor payment of \u20b9303,000 due for Avery Dennison \u2013 Labelexpo India",
+  "eventId": "EV-008",
+  "userId": "TM-003",
+  "read": true,
+  "timestamp": "2026-10-04T13:57:00"
+ },
+ {
+  "id": "NT-033",
+  "type": "payment",
+  "message": "Vendor payment of \u20b9362,000 due for CG Power \u2013 SWITCH Global Expo 2026",
+  "eventId": "EV-013",
+  "userId": "TM-012",
+  "read": false,
+  "timestamp": "2026-10-03T20:38:00"
+ },
+ {
+  "id": "NT-008",
+  "type": "comment",
+  "message": "Dev Patel commented on Adani \u2013 World Food India 2025",
+  "eventId": "EV-004",
+  "userId": "TM-007",
+  "read": true,
+  "timestamp": "2026-10-03T18:58:00"
+ },
+ {
+  "id": "NT-016",
+  "type": "milestone",
+  "message": "Milestone reached: Setup begins \u2013 Delta Electronics \u2013 ELECRAMA 2023",
+  "eventId": "EV-010",
+  "userId": "TM-008",
+  "read": true,
+  "timestamp": "2026-10-03T08:55:00"
+ }
+]
