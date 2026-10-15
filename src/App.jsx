@@ -23,7 +23,7 @@ const FinancePage = lazy(() => import('./pages/FinancePage.jsx'));
 const InventoryPage = lazy(() => import('./pages/InventoryPage.jsx'));
 const ReportsPage = lazy(() => import('./pages/ReportsPage.jsx'));
 const SettingsPage = lazy(() => import('./pages/SettingsPage.jsx'));
-const LoginPage = lazy(() => import('./pages/LoginPage.jsx'));
+// const LoginPage = lazy(() => import('./pages/LoginPage.jsx'));
 const NotFoundPage = lazy(() => import('./pages/NotFoundPage.jsx'));
 
 function Loader() {
@@ -45,13 +45,13 @@ export default function App() {
   return (
     <Suspense fallback={<Loader />}>
       <Routes>
-        <Route path="/login" element={<LoginPage />} />
+        {/* <Route path="/login" element={<LoginPage />} /> */}
         <Route
           path="/"
           element={
-            <RequireAuth>
+            // <RequireAuth>
               <AppLayout />
-            </RequireAuth>
+            // </RequireAuth>
           }
         >
           <Route index element={<Dashboard />} />

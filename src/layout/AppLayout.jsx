@@ -251,15 +251,7 @@ export default function AppLayout() {
             <IconButton onClick={(e) => setAnchor(e.currentTarget)} sx={{ p: 0.5 }}>
               <Avatar sx={{ width: 34, height: 34, bgcolor: 'secondary.main', color: '#1a1a1a', fontWeight: 700, fontSize: 14 }}>{initials(user?.name || 'NA')}</Avatar>
             </IconButton>
-            <Menu open={!!anchor} anchorEl={anchor} onClose={() => setAnchor(null)}>
-              <Box sx={{ px: 2, py: 1 }}>
-                <Typography fontWeight={700}>{user?.name}</Typography>
-                <Typography variant="caption" color="text.secondary">{user?.role}</Typography>
-              </Box>
-              <Divider />
-              <MenuItem onClick={() => { navigate('/settings'); setAnchor(null); }}><ListItemIcon><SettingsIcon fontSize="small" /></ListItemIcon>Settings</MenuItem>
-              <MenuItem onClick={() => { dispatch({ type: 'LOGOUT' }); navigate('/login'); }}><ListItemIcon><LogoutIcon fontSize="small" /></ListItemIcon>Sign out</MenuItem>
-            </Menu>
+          
           </Toolbar>
         </AppBar>
 
