@@ -39,7 +39,9 @@ export default function ClientsPage() {
 
   return (
     <Box>
-      <PageHeader title="Clients" subtitle={`${state.clients.length} accounts · ${fmtINR(sum(rows, 'value'), true)} lifetime project value`} actions={<Button variant="contained" startIcon={<AddIcon />} onClick={() => setOpen(true)}>Add client</Button>} />
+      <PageHeader title="Clients" subtitle={`${state.clients.length} accounts · ${fmtINR(sum(rows, 'value'), true)} lifetime project value`} 
+      // actions={<Button variant="contained" startIcon={<AddIcon />} onClick={() => setOpen(true)}>Add client</Button>}
+       />
       <Card sx={{ p: 1.5, mb: 2.5 }}>
         <Stack direction={{ xs: 'column', md: 'row' }} gap={1.5}>
           <TextField placeholder="Search clients…" value={q} onChange={(e) => setQ(e.target.value)} sx={{ flex: 1 }} InputProps={{ startAdornment: <InputAdornment position="start"><SearchIcon fontSize="small" /></InputAdornment> }} />

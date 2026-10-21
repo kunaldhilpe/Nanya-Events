@@ -54,7 +54,7 @@ export default function LoginPage() {
             ))}
           </Stack>
         </Box>
-        <Typography variant="caption" sx={{ position: 'relative', opacity: 0.6 }}>© 2026 NANYA Design Studio · Frontend demo, all data stored locally in your browser.</Typography>
+        <Typography variant="caption" sx={{ position: 'relative', opacity: 0.6 }}>© 2026 JD EVENTS Design Studio · Frontend demo, all data stored locally in your browser.</Typography>
       </Box>
 
       <Box sx={{ display: 'grid', placeItems: 'center', p: 3, bgcolor: 'background.default' }}>
@@ -62,7 +62,7 @@ export default function LoginPage() {
           <CardContent sx={{ p: 4 }}>
             <Box sx={{ display: { md: 'none' }, mb: 3 }}><Logo /></Box>
             <Typography variant="h5">Welcome back</Typography>
-            <Typography color="text.secondary" sx={{ mb: 3 }}>Sign in to the NANYA project workspace</Typography>
+            <Typography color="text.secondary" sx={{ mb: 3 }}>Sign in to the JD EVENTS project workspace</Typography>
             <form onSubmit={submit}>
               <Stack gap={2}>
                 <TextField select label="Sign in as" value={userId} onChange={(e) => setUserId(e.target.value)} fullWidth>

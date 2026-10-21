@@ -35,7 +35,9 @@ export default function VenuesPage() {
 
   return (
     <Box>
-      <PageHeader title="Venues" subtitle={`${state.venues.length} exhibition venues across India`} actions={<Button variant="contained" startIcon={<AddIcon />} onClick={() => setOpen(true)}>Add venue</Button>} />
+      <PageHeader title="Venues" subtitle={`${state.venues.length} exhibition venues across India`} 
+      // actions={<Button variant="contained" startIcon={<AddIcon />} onClick={() => setOpen(true)}>Add venue</Button>} 
+      />
       <TextField placeholder="Search venues or cities…" value={q} onChange={(e) => setQ(e.target.value)} fullWidth sx={{ mb: 2.5 }} InputProps={{ startAdornment: <InputAdornment position="start"><SearchIcon fontSize="small" /></InputAdornment> }} />
       <Grid container spacing={2.5}>
         {rows.map((v) => (

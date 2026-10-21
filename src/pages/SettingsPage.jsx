@@ -79,7 +79,7 @@ export default function SettingsPage() {
             </SectionCard>
             <SectionCard title="About">
               <Typography variant="body2" color="text.secondary">
-                NANYA Event Manager v1.0 · React 18 · Material UI 6 · MUI X Data Grid & Charts · React Router 6 · Vite. Seed data: {seedState.events.length} projects including the credentials portfolio (Okaya, Kobelco, Grundfos, Adani, Tops, Hershey's, Eaton, Avery Dennison, Summit Sports, Delta, Rehlko, Canara Bank, CG Power).
+                JD EVENTS Event Manager v1.0 · React 18 · Material UI 6 · MUI X Data Grid & Charts · React Router 6 · Vite. Seed data: {seedState.events.length} projects including the credentials portfolio (Okaya, Kobelco, Grundfos, Adani, Tops, Hershey's, Eaton, Avery Dennison, Summit Sports, Delta, Rehlko, Canara Bank, CG Power).
               </Typography>
             </SectionCard>
           </Stack>

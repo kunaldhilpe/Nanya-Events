@@ -20,7 +20,7 @@ export const seedState = {
     themeMode: 'light',
     density: 'comfortable',
     currency: 'INR',
-    companyName: 'NANYA Design Studio',
+    companyName: 'JD EVENTS Design Studio',
     sidebarCollapsed: false,
     notificationsEnabled: true,
   },

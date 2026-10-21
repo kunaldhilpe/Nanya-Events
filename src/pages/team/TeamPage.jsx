@@ -37,7 +37,9 @@ export default function TeamPage() {
 
   return (
     <Box>
-      <PageHeader title="Team" subtitle={`${state.team.length} people · workload based on open tasks`} actions={<Button variant="contained" startIcon={<AddIcon />} onClick={() => setOpen(true)}>Add member</Button>} />
+      <PageHeader title="Team" subtitle={`${state.team.length} people · workload based on open tasks`} 
+      // actions={<Button variant="contained" startIcon={<AddIcon />} onClick={() => setOpen(true)}>Add member</Button>} 
+      />
       <Tabs value={dept} onChange={(e, v) => setDept(v)} variant="scrollable" scrollButtons="auto" sx={{ mb: 2.5, borderBottom: 1, borderColor: 'divider' }}>
         <Tab value="All" label="Everyone" />
         {DEPTS.map((d) => <Tab key={d} value={d} label={d} />)}

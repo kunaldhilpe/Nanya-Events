@@ -41,21 +41,21 @@ const NAV = [
   ]},
   { group: 'Projects', items: [
     { to: '/events', label: 'Events & Stalls', icon: <EventIcon /> },
-    { to: '/tasks', label: 'Task Board', icon: <TaskAltIcon /> },
-    { to: '/pipeline', label: 'Sales Pipeline', icon: <TrendingUpIcon /> },
+    // { to: '/tasks', label: 'Task Board', icon: <TaskAltIcon /> },
+    // { to: '/pipeline', label: 'Sales Pipeline', icon: <TrendingUpIcon /> },
     { to: '/portfolio', label: 'Portfolio', icon: <CollectionsIcon /> },
   ]},
   { group: 'Directory', items: [
     { to: '/clients', label: 'Clients', icon: <BusinessIcon /> },
     { to: '/venues', label: 'Venues', icon: <PlaceIcon /> },
-    { to: '/vendors', label: 'Vendors', icon: <HandshakeIcon /> },
+    // { to: '/vendors', label: 'Vendors', icon: <HandshakeIcon /> },
     { to: '/team', label: 'Team', icon: <GroupsIcon /> },
   ]},
   { group: 'Operations', items: [
     { to: '/finance', label: 'Finance', icon: <PaymentsIcon /> },
     { to: '/inventory', label: 'Inventory', icon: <Inventory2Icon /> },
     { to: '/reports', label: 'Reports', icon: <AssessmentIcon /> },
-    { to: '/settings', label: 'Settings', icon: <SettingsIcon /> },
+    // { to: '/settings', label: 'Settings', icon: <SettingsIcon /> },
   ]},
 ];
 
@@ -107,8 +107,8 @@ function SidebarContent({ mini, onToggleMini, onNavigate }) {
       </Box>
       {!mini && (
         <Box sx={{ p: 2, m: 1.5, borderRadius: 2, bgcolor: 'rgba(255,255,255,0.05)', fontSize: 12, color: 'rgba(232,243,238,0.7)' }}>
-          <Typography variant="caption" sx={{ fontWeight: 700, color: '#c9a24a', display: 'block' }}>NANYA DESIGN STUDIO</Typography>
-          Exhibition stall design & fabrication · Noida / Delhi NCR
+          <Typography variant="caption" sx={{ fontWeight: 700, color: '#c9a24a', display: 'block' }}>JD EVENTS EVENT AND EXHIBITION</Typography>
+          Exhibition stall design & fabrication · Mumbai / Noida / Delhi NCR
         </Box>
       )}
     </Box>
@@ -149,7 +149,7 @@ export default function AppLayout() {
   const pageTitle = useMemo(() => {
     const all = NAV.flatMap((g) => g.items);
     const found = all.find((i) => (i.to === '/' ? location.pathname === '/' : location.pathname.startsWith(i.to)));
-    return found?.label || 'NANYA';
+    return found?.label || 'JD EVENTS';
   }, [location.pathname]);
 
   return (

@@ -2,7 +2,7 @@
   "name": "nanya-event-manager",
   "private": true,
   "version": "1.0.0",
-  "description": "NANYA Design Studio – Exhibition & Event Project Manager (frontend-only React + MUI app)",
+  "description": "JD EVENTS Design Studio – Exhibition & Event Project Manager (frontend-only React + MUI app)",
   "type": "module",
   "scripts": {
     "dev": "vite",

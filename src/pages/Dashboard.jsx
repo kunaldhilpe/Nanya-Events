@@ -69,7 +69,7 @@ export default function Dashboard() {
         actions={
           <>
             <Button variant="outlined" component={Link} to="/calendar">View calendar</Button>
-            <Button variant="contained" startIcon={<AddIcon />} component={Link} to="/events/new">New event</Button>
+            {/* <Button variant="contained" startIcon={<AddIcon />} component={Link} to="/events/new">New event</Button> */}
           </>
         }
       />

@@ -24,7 +24,7 @@ export default function PortfolioPage() {
 
   return (
     <Box>
-      <PageHeader title="Portfolio" subtitle={`${projects.length} built stalls · ${sum(projects, 'stallSizeSqm').toLocaleString('en-IN')} m² delivered · from the NANYA credentials deck`} />
+      <PageHeader title="Portfolio" subtitle={`${projects.length} built stalls · ${sum(projects, 'stallSizeSqm').toLocaleString('en-IN')} m² delivered · from the JD EVENTS credentials deck`} />
       <Box sx={{ borderRadius: 3, overflow: 'hidden', mb: 3, position: 'relative', minHeight: 260, backgroundImage: 'linear-gradient(to right, rgba(11,46,36,0.95) 30%, rgba(11,46,36,0.2)), url(/images/portfolio/kobelco-1.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', color: '#fff', p: { xs: 3, md: 5 }, display: 'flex', alignItems: 'center' }}>
         <Box sx={{ maxWidth: 520 }}>
           <Typography variant="overline" sx={{ color: '#c9a24a' }}>CREDENTIALS</Typography>

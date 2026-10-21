@@ -9,7 +9,7 @@ export function Logo({ compact = false, light = false, size = 1 }) {
         component="svg"
         viewBox="0 0 64 64"
         sx={{ width: 36 * size, height: 36 * size, flexShrink: 0 }}
-        aria-label="NANYA Design Studio"
+        aria-label="JD EVENTS Design Studio"
       >
         <rect width="64" height="64" rx="14" fill={light ? 'rgba(255,255,255,0.08)' : '#0b2e24'} />
         <path d="M14 46V18h4l18 20V18h4v28h-4L18 26v20z" fill={light ? '#e8f3ee' : '#e8f3ee'} />
@@ -17,8 +17,8 @@ export function Logo({ compact = false, light = false, size = 1 }) {
       </Box>
       {!compact && (
         <Box sx={{ lineHeight: 1 }}>
-          <Typography sx={{ fontFamily: '"Space Grotesk"', fontWeight: 700, letterSpacing: '0.18em', fontSize: 17 * size, color }}>NANYA</Typography>
-          <Typography sx={{ fontSize: 10 * size, letterSpacing: '0.28em', color, opacity: 0.7, mt: 0.25 }}>DESIGN STUDIO</Typography>
+          <Typography sx={{ fontFamily: '"Space Grotesk"', fontWeight: 700, letterSpacing: '0.18em', fontSize: 17 * size, color }}>JD EVENTS</Typography>
+          <Typography sx={{ fontSize: 10 * size, letterSpacing: '0.28em', color, opacity: 0.7, mt: 0.25 }}>EVENT AND EXHIBITION</Typography>
         </Box>
       )}
     </Box>

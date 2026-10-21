@@ -1,6 +1,6 @@
 import { createTheme, alpha } from '@mui/material/styles';
 
-// NANYA brand: deep forest green (logo), warm brass accent, warm paper neutrals.
+// JD EVENTS brand: deep forest green (logo), warm brass accent, warm paper neutrals.
 const brand = {
   forest: '#0b2e24',
   forestLight: '#1f6f5c',
